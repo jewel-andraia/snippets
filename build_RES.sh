@@ -4,7 +4,7 @@ ROOT=/Users/andytuba/Code
 SRC=$ROOT/Reddit-Enhancement-Suite 
 BUILD=$ROOT/RES_build
 
-JETPACK=$ROOT/addon-sdk-1.13.1
+JETPACK=$ROOT/addon-sdk
 FIREFOXSRC=$SRC/XPI
 FFEXTENSION=/Users/andytuba/Library/Application\ Support/Firefox/Profiles/06kw1qxd.default/extensions/jid1-xUfzOsOFlzSOXg@jetpack.xpi
 
