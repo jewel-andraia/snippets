@@ -1,0 +1,468 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head> 
+    <title>Andy Sacher</title> 
+    <base target="_blank"> 
+    <style type="text/css" media="all"> 
+
+	html, body {
+	    margin: 0;
+	    border: 0;
+	    outline: 0;
+	    padding: 0;
+	    width: 100%;
+	    height: 100%;
+	    color: black;
+	}
+
+	a {
+	    text-decoration: none;
+	    color: black;
+	}
+
+	a:hover { text-decoration: underline; }
+
+	.hidden { display: none; }
+
+	.head {
+	    position: fixed;
+	    z-index: 1;
+	    left: 0;
+	    top: 0;
+	    margin: 0;
+	    border: 0;
+	    background: #222;
+	    padding: 10px 0;
+	    width: 100%;
+	    min-height: 100px;  
+	    font-family: Optima, 'Lucida Grande', 'Lucida', Verdana, Tahoma, sans-serif;
+	}
+
+	.head, .head a {
+	    color: #999;
+	}
+
+	.buttons {
+		float: right;
+		text-align: right;
+	}
+
+	.buttons a { float: right; }
+
+	.buttons a + a { clear: right; }
+
+	#print {
+		/*
+	    position: absolute;
+	    top: 10px;
+	    right: 15px;
+	    width: 7em;
+	    */
+	    height: 2em;
+	    text-align: right;
+	    color: #999;
+	    font-size: 16px;
+	}
+
+	#print:hover { text-decoration: none; }
+
+	#print img {
+	    margin-left: .2em;
+	    vertical-align: baseline;
+	}
+
+	.badge {
+	    display: block;
+	    padding: 5px;
+	    width: 25px;
+	    height: 25px;
+	    background-position: center center;
+	    background-repeat: no-repeat;
+
+	    text-indent: 100px;
+	    overflow: hidden;
+	}
+
+
+	.github {
+		/*
+	    position: absolute;
+	    top: 75px;
+	    right: 10px;
+	    */
+	    border-radius: 5px;
+	    background-color: white;
+	    /* background-image: see below */
+	}
+
+	.linkedin {
+		/*
+	    position: absolute;
+	    top: 35px;
+	    right: 10px;
+	    */
+	    /* background-image: see below */
+	}
+
+
+	.head_interior {
+	    margin: 0 auto;
+	    width: 90%;
+	    padding: 0 80px /* buttons */ 0 10px;
+	    max-width: 800px;
+	}
+
+	.head h1 {
+	    margin: 0;
+	    border: 0;
+	    padding: 0;
+	    font-size: 70px;
+	    font-weight: normal;
+	    line-height: 1.2em;
+	}
+
+	.header_detail {
+	    float: right;
+	    margin: 1em 0 0;
+	    width: 40%;
+	    white-space: nowrap;
+	    text-align: right;
+	    font-size: 20px;
+	    line-height: 1.5em;
+	}
+
+	#body {
+	    position: relative;
+	    margin: 150px auto 0;
+	    padding-bottom: 20px;
+	    min-width: 400px;
+	    max-width: 800px;
+	    font-family:  Palatino, 'Times New Roman', serif;
+	    line-height: 1.3em;
+	}       
+
+	.newpage {
+	    display: none;
+	}
+
+	h2 {
+	    margin: 1em 0 .5em;
+	    border-width: 0 0 1px;
+	    border-style: double;
+	    padding: 0 0 .25em 0;
+	    font-variant: small-caps;
+	    font-family: 'Century Schoolbook', 'Palatino', 'serif';
+	    font-size: 1.7em;
+	}
+
+	.section {
+	    margin: 0 0 0 2em;
+	}
+
+	.section + .section {
+	    margin-top: 1em;
+	}
+
+	.date {
+	    float: right;
+	    text-align: right;
+	    font-size: 1.1em;
+	}
+
+	.location {
+	    clear: right;
+	    float: right;
+	    text-align: right;
+	    font-size: .8em;
+	}
+
+	.subsection {
+	    margin: .2em 0 0;
+	    border: 0;
+	    padding: 0;
+	}
+
+	.subsection + .subsection {
+	    margin-top: .7em;
+	}
+
+	h3 {
+	    margin: 0 0 .2em;
+	    border: 0;
+	    padding: 0;
+	    font-size: 1.3em;
+	    font-weight: normal;
+	    font-style: normal;
+	}
+
+	h4 {
+	    margin: 0 0 .2em;
+	    border: 0;
+	    padding: 0;
+	    font-size: 1.2em;
+	    font-weight: normal;
+	    font-style: italic;
+	}
+
+	ul {
+	    margin: 0;
+	    border: 0;
+	    padding: 0 0 0 2em;
+	    list-style: none;
+	}
+
+	.detail_title {
+	    font-size: larger;
+	}
+	</style> 
+	<style type="text/css" media="print">
+
+	    * {
+		background: white;
+		color: black;
+	    }
+
+	    .head {
+		position: relative;
+		margin-bottom: 1.5em;
+		border-bottom: 1px #ddd solid;
+		width: 100%;
+		max-width: 100%;
+		height: 50px;
+	    }
+
+	    .head_in {
+		width: 100%;
+		max-width: 100%;
+	    }
+
+	    .head h1 {
+		font-size: 40px;
+	    }
+
+	    .header_detail {
+		font-size: 12px;
+	    }
+
+	    #print, #linkedin, #github {
+		display: none;
+	    }
+
+	    #body {
+		margin-top: 0px;
+		font-size: smaller;
+		padding-bottom: 0;
+	    }
+
+	    .newpage {
+		display: block;
+		page-break-before: always;
+	    }
+
+	</style> 
+</head> 
+<body>
+    <div class="head"> 
+    	<div class="buttons">
+			<a id="print" href="javascript:void(0);" onclick="print();">
+			    Print
+			    <img width="12" height="12" alt="Click to print" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAAf0lEQVQoFY1RgQ3AIAibiy/5hP/qEx7FrAYtuCwzUVqEUmMQkQur1jrBYPvIOYfNOkIDdimlh4k1Iufzt+nupLUm2Jw301lNsY88JbISsFdPKZk3HA2+wAtG4+9jwqpTfxq9f3C9QzSWlor3QXw1HB9ERQyPf+DLNzwm/LGizQ+eBpO8nQRzagAAAABJRU5ErkJggg==">
+			</a>
+
+			<a class="badge github" href="http://github.com/andytuba" title="GitHub"></a>
+
+			<a class="badge linkedin" href="http://www.linkedin.com/in/andysacher/" title="LinkedIn"></a>
+		</div>
+
+	<div class="head_interior"> 
+	    <div class="header_detail">
+		<a href="mailto:andysacher@andysacher.com">andysacher@andysacher.com</a><br> 
+		(267) 888-6172
+	    </div>
+	    <h1>Andy Sacher</h1> 
+	</div> 
+    </div> 
+
+    <div id="body"> 
+	<div class="area"> 
+	    <h2>Experience</h2> 
+	    <div class="section"> 
+			<div class="date">November 2010</div> 
+			<div class="location"><a href="http://maps.google.com/maps?q=Sonic+Foundry,+Madison,+WI&amp;ll=43.073002,-89.386761&amp;spn=0.005361,0.012789">Madison, WI</a></div> 
+			<h3><a href="http://www.sonicfoundry.com/">Sonic Foundry</a></h3> 
+			<div class="subsection"> 
+			    <h4>Software Design Engineer</h4> 
+			    <ul class="details"> 
+					<li>Mediasite (presentation streaming) video player enhancements and maintenance</li>
+			    </ul> 
+			</div> 
+	    </div> 
+	    <div class="section"> 
+			<div class="date">August 2010 - November 2011</div> 
+			<div class="location"><a href="http://maps.google.com/maps?q=Epic+Systems,+Verona,+WI&amp;sll=42.989641,-89.565154&amp;sspn=0.012823,0.023217&amp;z=17">Verona, WI</a></div> 
+			<h3><a href="http://www.epic.com/">Epic Systems</a></h3> 
+			<div class="subsection"> 
+			    <h4>Software / Web Developer</h4> 
+			    <ul class="details"> 
+				<li>Corporate intranet home page maintenance, enhancement, and styling, including: </li>
+				<li>&nbsp; overall styling, search, employee profile, customer profile, campus maps, forms, utilities</li>
+				
+			    </ul> 
+			</div> 
+	    </div> 
+	    <div class="section"> 
+			<div class="date">April 2010 - June 2010</div> 
+			<div class="location"><a href="http://maps.google.com/maps?q=netguava,+chico,+ca&amp;hl=en&amp;sll=42.994483,-89.565481&amp;sspn=0.006411,0.011609&amp;z=15&amp;iwloc=A">Chico, CA</a></div> 
+			<h3><a href="http://www.netguava.com/">Netguava</a></h3> 
+			<div class="subsection"> 
+			    <h4>Web Developer</h4> 
+			    <ul class="responsibilities">
+					<li>Convert graphic designs into website templates</li>
+					<li>Maintain client websites</li>
+			    </ul>
+
+			</div> 
+	    </div> 
+	    <div class="section"> 
+		<div class="date">August 2009 - February 2010</div> 
+		<div class="location">Cazadero, CA</div> 
+		<h3><a href="http://www.dharmapublishing.com/">Dharma Publishing</a></h3> 
+		<div class="subsection"> 
+		    <h4>Shipping Manager, Webmaster</h4> 
+		    <ul class="details"> 
+			<li>Package and ship books and art to domestic and international
+			addresses</li> 
+			<li>Handle customer service telephone calls, data entry, database
+			cleanup</li> 
+			<li>Manage warehouse, inventory, and supplies</li> 
+			<li>Maintain website and online store</li> 
+		    </ul> 
+		</div> 
+	    </div> 
+	    <div class="section"> 
+		<div class="date">June 2003 - August 2009</div> 
+		<div class="location">Newark, DE</div> 
+		<h3><a href="http://www.udel.edu/">University of Delaware</a></h3> 
+		<div class="subsection"> 
+		    <h4>IT, A/V, Theatrical Technician</h4> 
+		    <ul> 
+			<li>Desktop and laptop support for computing sites and faculty and
+			students' personal computers</li> 
+			<li>Support and maintenance for A/V equipment in classrooms</li> 
+			<li>Maintain and operate theatrical equipment and manage performers</li> 
+			<li>Record and remaster concerts and performances</li> 
+		    </ul> 
+		</div> 
+		<div class="subsection"> 
+		    <h4>Webmaster, Programmer</h4> 
+		    <ul class="details"> 
+			<li>Create and maintain websites for public and internal use</li> 
+			<li>Create and maintain databases</li> 
+		    </ul> 
+		</div> 
+		<div class="subsection"> 
+		    <h4>Teacher's Assistant, Tutor</h4> 
+		    <ul class="details"> 
+			<li>Assist computer science professors in teaching and grading, run
+			lab/discussion area</li> 
+			<li>Tutor computer science students privately and in groups</li> 
+		    </ul> 
+		</div> 
+	    </div> 
+	    <div class="section"> 
+		<div class="date">June - August 2007</div> 
+		<div class="location">Williams, MA</div> 
+		<h3><a href="http://www.wtfestival.org/">Williamstown Theatre Festival</a></h3> 
+		<div class="subsection"> 
+		    <h4>Sound Intern</h4> 
+		    <ul class="details"> 
+			<li>Install, maintain, and run theatrical sound equipment for
+			rehearsals and shows</li> 
+		    </ul> 
+		</div> 
+	    </div> 
+	    <div class="section"> 
+		<h3>Freelance Webmaster, IT Technician</h3> 
+		<div class="subsection"> 
+		    <ul class="details"> 
+			<li>Design and maintain personal and professional websites and
+			online stores</li> 
+		    </ul> 
+		</div> 
+	    </div> 
+	</div> 
+
+	<div class="head newpage"> 
+	    <div class="head_interior"> 
+		<div class="header_detail">andysacher@andysacher.com<br> 
+		    (267) 888-6172</div> 
+		<h1>Andy Sacher</h1> 
+	    </div> 
+	</div> 
+
+	<div class="area"> 
+	    <h2>Education</h2> 
+	    <div class="section"> 
+		<div class="date">September 2004 - May 2009</div> 
+		<div class="location">Newark, DE</div> 
+		<h3>University of Delaware</h3> 
+		<div class="subsection"> 
+		    <h4>Bachelor of Arts</h4> 
+		    <ul class="details"> 
+				<li>Majors: Computer Science, Theatre Production</li> 
+				<li>Minor: Spanish Studies</li> 
+				<li>GPA: 3.314 / 4.000</li> 
+				<li class="spacer">Study abroad programs in Spain, Chile, Peru, China, and London</li> 
+		    </ul> 
+		</div> 
+	    </div> 
+	</div> 
+	<div class="area"> 
+	    <h2>Skills</h2> 
+	    <div class="section"> 
+		<ul class="details">
+		    <li>
+			    <span class="detail_title">Web Development</span>
+			    <ul> 
+					<li>JavaScript, HTML/CSS, <span class="hidden">HTML5, CSS3,</span> C#/.NET, PHP, Java, T-SQL, MySQL</li> 
+					<li>Desktop browsers: Chrome, Firefox, Internet Explorer, Safari, Opera</li>
+					<li>Mobile browsers (phones and tablets): Android, iOS, BlackBerry</li>
+			    </ul>
+		    </li>
+		    <li>
+		    	<span class="detail_title">Information Technology</span>
+			    <ul>
+					<li>Computer maintenance (networking, operating systems, software, hardware)</li> 
+					<li>Windows, Mac OS X, Linux (Ubuntu/Debian, Fedora)</li> 
+			    </ul>
+		    </li>
+		    <li>
+			    <span class="detail_title">A/V and Theatre Technology</span>
+			    <ul> 
+					<li>Installing and operating lights and sound
+					equipment for live shows</li> 
+					<li>Recording and remastering live events and performances</li>
+					<li>Installing and maintaining speakers, projectors, VHS/DVD players, and other electronics</li> 
+			    </ul>
+		    </li>
+		    <li>
+			    <span class="detail_title">Foreign Languages:</span>
+			    Spanish (proficient in reading, writing, speaking)
+		    </li>
+		    <li>
+			    <span class="detail_title">Packing and Shipping:</span>
+			    books, art, and other items; warehousing, forklift operation
+		    </li> 
+		</ul>
+	    </div> 
+	</div> 
+</div>
+
+<style>
+	.github {
+	    background-image: url(data:image/png;base64,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);
+	}
+	.linkedin {
+	    background-image: url(data:image/png;base64,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);
+	    }
+
+	</style> 
+</body></html>
