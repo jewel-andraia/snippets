@@ -44,7 +44,7 @@ cd $JETPACK
 #Build
 source bin/activate
 cd $FIREFOXSRC
-cfx xpi
+cfx xpi #--force-mobile
 cp reddit_res.xpi $BUILD 
 #Deploy
 cp $BUILD/reddit_res.xpi "$FFEXTENSION"
@@ -54,4 +54,4 @@ echo ""
 
 killall firefox
 killall firefox-bin
-cfx run
+#cfx run
