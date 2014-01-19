@@ -3,7 +3,7 @@
 	[
 		{
 			"path": "/Users/andytuba/Code/Reddit-Enhancement-Suite",
-			"folder_exclude_patterns": [".git", "Chrome/modules", "OperaBlink/modules", "Opera/modules", "Opera/includes", "XPI/modules", "RES.safariextension/modules"]
+			"folder_exclude_patterns": [".git", "Chrome/modules", "OperaBlink/modules", "Opera/modules", "Opera/includes", "XPI/data/modules", "RES.safariextension/modules"]
 		},
 		{
 			"path": "/Users/andytuba/Code/RES_build"
