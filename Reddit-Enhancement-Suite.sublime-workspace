@@ -1,0 +1,970 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"associated",
+				"associatedOptionKey"
+			],
+			[
+				"notfic",
+				"notificationID"
+			],
+			[
+				"notiication",
+				"notificationID"
+			],
+			[
+				"RESu",
+				"RESUtils"
+			],
+			[
+				"makeSub",
+				"makeSubscribeLink"
+			],
+			[
+				"getLink",
+				"getLinkCurrentUrl"
+			],
+			[
+				"NREMail",
+				"NREMailCount"
+			],
+			[
+				"conain",
+				"containerDimensions"
+			],
+			[
+				"container",
+				"containerDimensions"
+			],
+			[
+				"mySubreddit",
+				"mySubredditShortcuts"
+			],
+			[
+				"bind",
+				"bindPartialArguments"
+			],
+			[
+				"mySubreddits",
+				"mySubredditsMetadata"
+			],
+			[
+				"getSubredditM",
+				"getSubredditsMetadata"
+			],
+			[
+				"positi",
+				"positionUsing"
+			],
+			[
+				"fancy",
+				"fancyboxOptions"
+			],
+			[
+				"removeHid",
+				"_removeHiddenThing"
+			],
+			[
+				"loggediN",
+				"loggedInUserInfo"
+			],
+			[
+				"_loggedIn",
+				"_loggedInUserInfo"
+			],
+			[
+				"_loggedi",
+				"_loggedInUserInfoPromise"
+			],
+			[
+				"_loge",
+				"_loggedInUserInfoPromise"
+			],
+			[
+				"getItemsAsyn",
+				"getItemsAsyncProcessed"
+			],
+			[
+				"getitemsAs",
+				"getItemsAsyncProcessed"
+			],
+			[
+				"getItemsA",
+				"getItemsAsyncProcessed"
+			],
+			[
+				"getComments",
+				"getCommentCounts"
+			],
+			[
+				"getComment",
+				"getCommentCounts"
+			],
+			[
+				"getcomment",
+				"getCommentCounts"
+			],
+			[
+				"getComme",
+				"getCommentCounts"
+			],
+			[
+				"calle",
+				"calleeArguments"
+			],
+			[
+				"bicoin",
+				"bitcointip"
+			],
+			[
+				"RESNotificat",
+				"RESNotificationHeader"
+			],
+			[
+				"makeUrlHash",
+				"makeUrlHashLink"
+			],
+			[
+				"addConsoleDrop",
+				"addConsoleDropdownIcon"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"RESCons",
+				"RESConsoleContainer"
+			],
+			[
+				"timeout",
+				"timeoutKey"
+			],
+			[
+				"exitMenu",
+				"exitMenuTimeout"
+			],
+			[
+				"papal",
+				"paypalSubmit"
+			],
+			[
+				"apply",
+				"applyBindings"
+			],
+			[
+				"cal",
+				"getCalendarUrl"
+			],
+			[
+				"loggedIn",
+				"loggedInGold"
+			],
+			[
+				"Browser",
+				"BrowserDetect"
+			],
+			[
+				"replyToC",
+				"replyToCommentId"
+			],
+			[
+				"Get",
+				"getCalendarUrl"
+			],
+			[
+				"getActive",
+				"getActiveImageData"
+			],
+			[
+				"sourceitems",
+				"sourceItemsIndex"
+			],
+			[
+				"imageat",
+				"imageattachment"
+			],
+			[
+				"never",
+				"neverEndingReddit"
+			],
+			[
+				"generateContextualHelp",
+				"generateContextualHelpKeyboard"
+			],
+			[
+				"onHelpHov",
+				"onHelpHoverStayTimeout"
+			],
+			[
+				"downvote",
+				"downvoteThing"
+			],
+			[
+				"srstyl",
+				"setSRStyleToggleVisibility"
+			],
+			[
+				"moduleId",
+				"moduleID"
+			],
+			[
+				"subreddit",
+				"subredditIndex"
+			],
+			[
+				"RESSearch",
+				"RESSearchButton"
+			],
+			[
+				"createElement",
+				"createElementWithID"
+			],
+			[
+				"drawsea",
+				"drawSearchResultsPanel"
+			],
+			[
+				"settings",
+				"settingsNavigation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/commentTools.js",
+			"settings":
+			{
+				"buffer_size": 35916,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/saveComments.js",
+			"settings":
+			{
+				"buffer_size": 13165,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Reddit Enhancement Suite.sublime-build",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Format: Javascript"
+			],
+			[
+				"js",
+				"Format: Javascript"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/storage.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/styleTweaks.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/init.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/utils.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/init.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/alert.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/browsersupport.js",
+		"/Users/andytuba/Code/snippets/build_RES.sh",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/manifest.json",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/tests.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/RES.safariextension/background-safari.html",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/templates.html",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/RES.safariextension/modules/subredditInfo.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/XPI/package.json",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/XPI/lib/main.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Opera/config.xml",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/OperaBlink/manifest.json",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/accountSwitcher.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/templates.html",
+		"/Users/andytuba/Code/snippets/Reddit-Enhancement-Suite.sublime-project",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/BUILD.md",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/troubleshooter.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/notifications.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/commentNavigator.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/betteReddit.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/reddit_enhancement_suite.user.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/nightmode.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/res.css",
+		"/Users/andytuba/Code/gists/samelawrence-regression/samelawrence-isMatchURL__1385760810757.json",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/patch.diff",
+		"/Users/andytuba/Downloads/isMatchURL__1385759644199.json",
+		"/Users/andytuba/Downloads/isMatchURL-1385759452734.json",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/RES.safariextension/jquery.dragsort-0.6.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/RES.safariextension/Info.plist",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/reddit_enhancement_suite.user.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/background.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/jquery.dragsort-0.4.3.min.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/jquery.dragsort-0.4.3.min.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/jquery.dragsort.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Opera/modules/jquery-1.9.1.min.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"lib/*.js",
+			"",
+			"lib/*.js",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.html",
+			"",
+			"*.html",
+			"*.html,*.js",
+			"",
+			"*.html",
+			"",
+			"",
+			"",
+			"*.html",
+			"",
+			"*.html,*.js",
+			"*.html",
+			"",
+			"*.js",
+			"*.html",
+			"*.html",
+			"*.html",
+			"*.html",
+			"*.html,*.js",
+			"*.html",
+			"*.scs",
+			"*.html,*.p",
+			"",
+			"*.js",
+			"*.js",
+			"*.html",
+			"*.js,*.html",
+			"",
+			"*.js",
+			"",
+			"*.html,*.js",
+			"*.html",
+			"*.html",
+			"",
+			"*.html",
+			"*.html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"styletweaks",
+			"handlenightmodeatstart",
+			"dark",
+			"createelementwithid",
+			"troubleshooter.js",
+			"resloadcallbacks",
+			"transactions",
+			"RESLoadResourceAsText",
+			"attempting to load templates",
+			"reddit_res",
+			"gm_xmlhttprequest(",
+			"safarimessagehandler",
+			"gm_xmlhttprequest",
+			"resloadresourceastext",
+			"restemplates",
+			"gettext",
+			"selection",
+			"macroselection",
+			"fillplace",
+			"macroSelection(",
+			"macroselection(",
+			"sticky",
+			"stickytoggle",
+			"sticky\"",
+			"enabled",
+			"resnotificationtoggle",
+			"renderheaderhtml",
+			"enabled ",
+			"authorinfotooltip",
+			"notifications']",
+			"notification',",
+			"authorinfotooltip",
+			"debugge",
+			".begin(",
+			".opendelay",
+			"options:",
+			".defaults",
+			"var hover =",
+			"modules['hover']",
+			"RESUtils.hover",
+			"^modules\\['",
+			"modules['",
+			"lightordark",
+			"hash:",
+			"header",
+			"darkmode",
+			"autocolorusing:",
+			"nextpage:",
+			"loaded\"",
+			"('neverending",
+			"neverending",
+			"placeholders",
+			"dotextcolor(",
+			"autocolorusing:",
+			"autocolorusing",
+			"values.",
+			"values",
+			"hashed-userid-consistent",
+			"hash-userid",
+			"scanpagefornewusernames",
+			"autocolorusernames",
+			"autocolorusernames:",
+			"autocolorusernames",
+			"fadeelementout",
+			"<label",
+			"enabled",
+			"loadnewpage",
+			".modalwidget",
+			"modalcontent",
+			"returntoprevpagecheck",
+			"returntoprevpage",
+			"neverendingreddit",
+			"this.",
+			".value = ",
+			".value =",
+			"'enabled'",
+			"notificationclosed",
+			"notifications",
+			"returntoprevpage",
+			"content",
+			"contentobj",
+			".message",
+			"'all'",
+			"'enum'",
+			"mapObjectToTableOption",
+			"mapTableOptionToObject",
+			"notificationId",
+			"resutils",
+			"RESutils",
+			"sticky",
+			"setnotificationtimer",
+			"my_username",
+			"selection",
+			"usertagger",
+			"resoptions.",
+			"filtereddit",
+			"resmodules.",
+			"modules['",
+			"modules\\['[\\w]+\\]",
+			"modules['",
+			"editshortcutdialog",
+			"resdialogcontents",
+			"width: 450",
+			"width: 4",
+			"hover.begin",
+			": 400",
+			"editshortcutdialog",
+			"#editShortcutDialog",
+			"editShortcutDialog",
+			".set",
+			"resUtils.hover",
+			"mouseleave",
+			"closeonmouseout",
+			"fadeDelay",
+			"header",
+			"isnan",
+			"getoradd",
+			"hash:",
+			" = '';",
+			"shownotification({",
+			"resstorage.storeModuleOptions",
+			"addnew",
+			"saveModuleOptions",
+			"saveOptions",
+			"saveOptions:",
+			"resstorage",
+			"setitem('resoptions",
+			"type: 'table'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hover",
+			"modules['hover']",
+			"hash-userid",
+			"mapObjectToTableOptionValue",
+			"mapTableOptionValueToObject",
+			"RESUtils",
+			"RESUtils.storeModuleOptions",
+			"storeModuleOptions",
+			"saveModuleOptions",
+			"modules['notifications'].showNotification",
+			"<span class=\"RESThrobber\"></span>",
+			"RESThrobber",
+			"\\1/.*/",
+			"\\1/*/",
+			"\\1'*'",
+			"toggle",
+			"",
+			"+",
+			"\\1 ",
+			"\\1",
+			"\\1,",
+			", ",
+			",\\s",
+			"\\s",
+			"'",
+			"', '",
+			"['",
+			" ],\n		[",
+			"],\\r        [",
+			"next",
+			"$(this).data('target')",
+			"ShutterCal.DOM.queryByDataSelector(\"$1\"",
+			"ShutterCal.DOM.queryByDataSelector($1",
+			"ShutterCal.DOM.queryByDataSelector(\"$1\"",
+			"ShutterCal.DOM.queryByDataSelector($1",
+			"ShutterCal.DOM.queryByDataSelector({0}",
+			"ShutterCal.DOM.queryByDataSelector($1",
+			"ShutterCal.DOM.queryByDataSelector(\\0",
+			"ShutterCal.DOM.queryByDataSelector(\\1",
+			"firstComment",
+			"modules['subredditManager'].",
+			"&",
+			"href=\"javascript:;\" data-class=\"open\" data-target=\"pb_",
+			"data-class=\"open\" data-target=\"pb_",
+			"<",
+			"<div data-name=\"pb_product3\" \n                data-class=\"openable openable-exclusive\" \n                data-exclusive=\"preview\" \n                <",
+			"<div data-name=\"pb_product3\" \n                data-class=\"openable openable-exclusive\" \n                data-exclusive=\"preview\" \n                ",
+			"data-target=\"pb_prod",
+			"javascript:;",
+			"data-class=\"open\" data-target=\"",
+			"data-name=\"\\1\" data-class=\"openable openable-exclusive\" data-exclusive=\"preview\"",
+			"RESStorage.getItemsAsync",
+			"getvars",
+			"embedhelp",
+			"padit",
+			"class=\"butt dlt uprightcorner\" data-class=\"close\"",
+			"<div class=\"modal centertxt\" data-class=\"openable\">",
+			"",
+			"data-class=\"close\"",
+			"<div class=\"modal centertxt\" data-class=\"openable\" data-name=\"modal-\">",
+			"data-class=lightbox",
+			"this",
+			"data",
+			"getItemsAsyncThen",
+			"bindTrailingArguments",
+			"[].slice.call",
+			"Array.slice",
+			"commentCounts",
+			"",
+			"consoleModules['navigation']",
+			"\\t\\",
+			"RESModuleSettings.",
+			"RESModules.",
+			"",
+			"Extension.version",
+			"",
+			"Settings.getOptions",
+			"Settings.setOption",
+			"Settings.$1(",
+			"Settings.$1",
+			"next",
+			"dates['nextactiveday']",
+			"dates['prevactiveday']",
+			"day",
+			"datetime.date(",
+			"datetime.date",
+			"= datetime.datetimedatetime.date",
+			"= datetime.datetime",
+			"next",
+			"nextyear",
+			"</dd>",
+			"<dt>",
+			"prev",
+			"",
+			"prices.",
+			"campaign.",
+			"dims2",
+			"dims1",
+			"",
+			"window.console.log",
+			"MutationObserver",
+			"mo",
+			"page",
+			" href",
+			" request.user.",
+			" request.user",
+			"ave",
+			".showEdit",
+			"toggleEdit",
+			"toggleFaveButton",
+			"loadActiveImageDetails",
+			"loadNextImage",
+			"loadPreviousImage",
+			"loadImage",
+			"data-lightbox=\"\\1\"",
+			":",
+			"data-",
+			"data-image-id",
+			"showImage",
+			"break; case:",
+			"changeToPrevImage",
+			"myLightbox.activeShareData",
+			"images",
+			".getCal",
+			"ShutterCal.GetCalendarUrl",
+			"myLightbox.\\1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/commentTools.js",
+					"settings":
+					{
+						"buffer_size": 35916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25685,
+								25685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10316.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/saveComments.js",
+					"settings":
+					{
+						"buffer_size": 13165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.22871258529,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 278.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"Reddit-Enhancement-Suite/lib/modules/saveComments.js"
+			],
+			[
+				"storagejs",
+				"Reddit-Enhancement-Suite/lib/storage.js"
+			],
+			[
+				"commenttol",
+				"Reddit-Enhancement-Suite/lib/modules/commentTools.js"
+			],
+			[
+				"modulestyle",
+				"Reddit-Enhancement-Suite/lib/modules/styleTweaks.js"
+			],
+			[
+				"init",
+				"Reddit-Enhancement-Suite/lib/init.js"
+			],
+			[
+				"manifestjson",
+				"Reddit-Enhancement-Suite/Chrome/manifest.json"
+			],
+			[
+				"build",
+				"snippets/build_RES.sh"
+			],
+			[
+				"",
+				"Reddit-Enhancement-Suite/lib/modules/tests.js"
+			],
+			[
+				"xpijson",
+				"Reddit-Enhancement-Suite/XPI/package.json"
+			],
+			[
+				"chromemanifest",
+				"Reddit-Enhancement-Suite/Chrome/manifest.json"
+			],
+			[
+				"operablinkjson",
+				"Reddit-Enhancement-Suite/OperaBlink/manifest.json"
+			],
+			[
+				"templates",
+				"Reddit-Enhancement-Suite/lib/templates.html"
+			],
+			[
+				"xpimain.js",
+				"Reddit-Enhancement-Suite/XPI/lib/main.js"
+			],
+			[
+				"background-saf",
+				"Reddit-Enhancement-Suite/RES.safariextension/background-safari.html"
+			],
+			[
+				"storage",
+				"Reddit-Enhancement-Suite/lib/storage.js"
+			],
+			[
+				"chromejson",
+				"Reddit-Enhancement-Suite/Chrome/manifest.json"
+			],
+			[
+				"utils",
+				"Reddit-Enhancement-Suite/lib/utils.js"
+			],
+			[
+				"libinit",
+				"Reddit-Enhancement-Suite/lib/init.js"
+			],
+			[
+				"init.js",
+				"Reddit-Enhancement-Suite/Chrome/init.js"
+			],
+			[
+				"notifications",
+				"Reddit-Enhancement-Suite/lib/modules/notifications.js"
+			],
+			[
+				"trouble",
+				"Reddit-Enhancement-Suite/lib/modules/troubleshooter.js"
+			],
+			[
+				"libred",
+				"Reddit-Enhancement-Suite/lib/reddit_enhancement_suite.user.js"
+			],
+			[
+				"nightmode",
+				"Reddit-Enhancement-Suite/lib/nightmode.css"
+			],
+			[
+				"res.css",
+				"Reddit-Enhancement-Suite/Chrome/res.css"
+			],
+			[
+				"libres.css",
+				"Reddit-Enhancement-Suite/lib/res.css"
+			],
+			[
+				"libres",
+				"Reddit-Enhancement-Suite/lib/res.css"
+			],
+			[
+				"css",
+				"Reddit-Enhancement-Suite/Chrome/res.css"
+			],
+			[
+				"libredd",
+				"Reddit-Enhancement-Suite/lib/reddit_enhancement_suite.user.js"
+			],
+			[
+				"info.plist",
+				"Reddit-Enhancement-Suite/RES.safariextension/Info.plist"
+			],
+			[
+				"dragsort",
+				"Reddit-Enhancement-Suite/RES.safariextension/jquery.dragsort-0.6.js"
+			],
+			[
+				"safariext",
+				"Reddit-Enhancement-Suite/RES.safariextension/Info.plist"
+			],
+			[
+				"back",
+				"Reddit-Enhancement-Suite/Chrome/background.js"
+			],
+			[
+				"backgroundsa",
+				"Reddit-Enhancement-Suite/RES.safariextension/background-safari.html"
+			],
+			[
+				"rescss",
+				"Reddit-Enhancement-Suite/lib/res.css"
+			],
+			[
+				"buildres",
+				"snippets/build_RES.sh"
+			],
+			[
+				"jqueryui",
+				"media/javascript/jquery-ui-core.js"
+			],
+			[
+				"dragsortmin",
+				"lib/jquery.dragsort-0.4.3.min.js"
+			],
+			[
+				"chromedragsort",
+				"Chrome/jquery.dragsort-0.4.3.min.js"
+			],
+			[
+				"json",
+				"Chrome/manifest.json"
+			],
+			[
+				"dragsortjs",
+				"Chrome/jquery.dragsort.js"
+			],
+			[
+				"opera",
+				"Opera/config.xml"
+			],
+			[
+				"jqueryjs",
+				"Opera/modules/jquery-1.9.1.min.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true
+}

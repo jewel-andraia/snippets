@@ -1,0 +1,24 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/andytuba/Code/Reddit-Enhancement-Suite",
+			"folder_exclude_patterns": [".git", "Chrome/modules", "OperaBlink/modules", "Opera/modules", "Opera/includes", "XPI/modules", "RES.safariextension/modules"]
+		},
+		{
+			"path": "/Users/andytuba/Code/RES_build"
+		},
+		{
+			"path": "/Users/andytuba/Code/snippets"
+		}
+	],
+	"build_systems":
+	[
+		{
+			"name": "Reddit Enhancement Suite - all extensions",
+		 	"cmd" : ["./snippets/build_RES.sh"],    
+		 	"shell": true,
+		    "working_dir": "/Users/andytuba/Code"
+		}
+	]
+}
