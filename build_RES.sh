@@ -1,10 +1,11 @@
 #!/bin/bash
 
-ROOT=/Users/andytuba/Code
-SRC=$ROOT/Reddit-Enhancement-Suite 
-BUILD=$ROOT/RES_build
+ROOT=/Users/andytuba/Code/Reddit-Enhancement-Suite
+SRC=$ROOT/temp/ext
+BUILD=$ROOT/temp/build
+PATH=$PATH:/usr/local/bin
 
-JETPACK=$ROOT/addon-sdk
+JETPACK=$ROOT/../addon-sdk
 FIREFOXSRC=$SRC/XPI
 FFEXTENSION=/Users/andytuba/Library/Application\ Support/Firefox/Profiles/06kw1qxd.default/extensions/jid1-xUfzOsOFlzSOXg@jetpack.xpi
 
@@ -14,12 +15,20 @@ OPERAEXTENSION=/Users/andytuba/Library/Application\ Support/Opera/widgets/reddit
 SAFARISRC=$SRC/RES.safariextension
 
 #/Users/andytuba/Documents/Work/RES/Reddit-Enhancement-Suite
-echo "Deploying $SRC/lib/r_e_s.user.js to dev browsers"
+echo "Deploying RES to dev browsers from $SRC"
 
-cd $SRC
-./makelinks.sh
+cd $ROOT
+
+rm -rf $BUILD
+mkdir -p $BUILD
+
+#echo "Re-linking files from extension folders to lib/"
+#./makelinks.sh
+echo "Running grunt build"
+grunt
 
 sleep .5
+
 
 open -a Google\ Chrome http://reload.extensions
 echo "Copied to Chrome"
@@ -27,31 +36,30 @@ echo ""
 
 
 #Clean
-rm $BUILD/opera.oex
-#Build
-cd $OPERASRC
-zip -r $BUILD/opera.oex . -x '*.git/*' -x '*.DS_Store'
-# Deploy
-cp $BUILD/opera.oex "$OPERAEXTENSION"
-echo "Copied to Opera"
-echo ""
-
+rm $BUILD/opera.oex &> /dev/null
+if false; then
+	#Build
+	cd $OPERASRC
+	zip -r $BUILD/opera.oex . -x '*.git/*' -x '*.DS_Store'
+	# Deploy
+	cp $BUILD/opera.oex "$OPERAEXTENSION"
+	echo "Copied to Opera"
+	echo ""
+fi
 
 # Clean
-rm -f $FIREFOXSRC/reddit_res.xpi
-rm -f $BUILD/reddit_res.xpi
+rm -f $FIREFOXSRC/reddit_res.xpi &> /dev/null
+rm -f $BUILD/reddit_res.xpi &> /dev/null
 cd $JETPACK
 #Build
 source bin/activate
 cd $FIREFOXSRC
 cfx xpi #--force-mobile
-cp reddit_res.xpi $BUILD 
-#Deploy
-cp $BUILD/reddit_res.xpi "$FFEXTENSION"
+cp reddit_res.xpi $BUILD
 echo "Copied to Firefox"
 echo ""
 
 
-killall firefox
-killall firefox-bin
-#cfx run
+killall firefox &> /dev/null
+killall firefox-bin &> /dev/null
+cfx run
