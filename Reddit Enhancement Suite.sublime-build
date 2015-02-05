@@ -1,5 +1,0 @@
-{
- 	"cmd" : ["./snippets/build_RES.sh"],    
- 	"shell": true,
-    "working_dir": "/Users/andytuba/Code"
-}

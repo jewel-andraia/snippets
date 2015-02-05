@@ -1,24 +1,42 @@
 {
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"./snippets/build_RES.sh"
+			],
+			"name": "Reddit Enhancement Suite - all extensions",
+			"shell": true,
+			"working_dir": "/Users/andytuba/Code"
+		}
+	],
 	"folders":
 	[
 		{
-			"path": "/Users/andytuba/Code/Reddit-Enhancement-Suite",
-			"folder_exclude_patterns": [".git", "Chrome/modules", "OperaBlink/modules", "Opera/modules", "Opera/includes", "XPI/data/modules", "RES.safariextension/modules"]
+			"path": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				".git",
+				"lib",
+				"dist",
+				"node_modules",
+				"Chrome/modules",
+				"OperaBlink/modules",
+				"Opera/modules",
+				"Opera/includes",
+				"XPI/data/modules",
+				"RES.safariextension/modules"
+			],
+			"path": "/Users/andytuba/Code/Reddit-Enhancement-Suite"
 		},
 		{
 			"path": "/Users/andytuba/Code/RES_build"
 		},
 		{
 			"path": "/Users/andytuba/Code/snippets"
-		}
-	],
-	"build_systems":
-	[
-		{
-			"name": "Reddit Enhancement Suite - all extensions",
-		 	"cmd" : ["./snippets/build_RES.sh"],    
-		 	"shell": true,
-		    "working_dir": "/Users/andytuba/Code"
 		}
 	]
 }

@@ -4,6 +4,306 @@
 		"selected_items":
 		[
 			[
+				"querySel",
+				"querySelector"
+			],
+			[
+				"thisSave",
+				"thisSaveButton"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"percent",
+				"percentageHidden"
+			],
+			[
+				"notification",
+				"notificationThreshold"
+			],
+			[
+				"querySelector",
+				"querySelectorAll"
+			],
+			[
+				"RESissues",
+				"RESIssues"
+			],
+			[
+				"site",
+				"siteModules"
+			],
+			[
+				"mod",
+				"modules"
+			],
+			[
+				"context",
+				"contextActive"
+			],
+			[
+				"sqlie",
+				"sqliteStorage"
+			],
+			[
+				"sql",
+				"sqliteStorage"
+			],
+			[
+				"migrate",
+				"migrateSimpleStorage"
+			],
+			[
+				"_get",
+				"_getByContext"
+			],
+			[
+				"menuite",
+				"menuItemID"
+			],
+			[
+				"menuITE",
+				"menuItemID"
+			],
+			[
+				"RES",
+				"RESUtils"
+			],
+			[
+				"applyList",
+				"applyListContainsAll"
+			],
+			[
+				"RESUt",
+				"RESutils"
+			],
+			[
+				"parse",
+				"parseCommandLine"
+			],
+			[
+				"curate",
+				"curatedByUsername"
+			],
+			[
+				"largeAlbu",
+				"largeAlbumSettings"
+			],
+			[
+				"largeAbu",
+				"largeAlbumSettings"
+			],
+			[
+				"chu",
+				"chunkState"
+			],
+			[
+				"loged",
+				"loggedInUser"
+			],
+			[
+				"cmdLineShow",
+				"cmdLineShowTip"
+			],
+			[
+				"enableFor",
+				"enableForSubredditConfig"
+			],
+			[
+				"comme",
+				"commentPreview"
+			],
+			[
+				"shortcuts",
+				"shortCutsHTML"
+			],
+			[
+				"delete",
+				"deleteButton"
+			],
+			[
+				"_insert",
+				"_insertedRules"
+			],
+			[
+				"inserted",
+				"insertedRules"
+			],
+			[
+				"stylesheet",
+				"stylesheetLoaded"
+			],
+			[
+				"doH",
+				"doHighlightsUniqueBorder"
+			],
+			[
+				"doHih",
+				"doHighlights"
+			],
+			[
+				"get",
+				"getVersionNumbers"
+			],
+			[
+				"getO",
+				"getMigrationVersions"
+			],
+			[
+				"revertVote",
+				"revertVoteButtons"
+			],
+			[
+				"moduleID",
+				"moduleIdOrCategory"
+			],
+			[
+				"contan",
+				"containersShown"
+			],
+			[
+				"subRedi",
+				"subRedditTagger"
+			],
+			[
+				"currenT",
+				"currentCheckPos"
+			],
+			[
+				"current",
+				"currentCheckPos"
+			],
+			[
+				"notify",
+				"notifyNoVote"
+			],
+			[
+				"curent",
+				"currentCheckPos"
+			],
+			[
+				"revert",
+				"revertVote"
+			],
+			[
+				"addR",
+				"addRecentNotification"
+			],
+			[
+				"update",
+				"updateUserbarStateOption"
+			],
+			[
+				"toggleUser",
+				"toggleUserBarDisplay"
+			],
+			[
+				"userbar",
+				"userbarState"
+			],
+			[
+				"userBar",
+				"userbarState"
+			],
+			[
+				"Browser",
+				"BrowserStrategy"
+			],
+			[
+				"RESVersion",
+				"RESVersionReport"
+			],
+			[
+				"RESC",
+				"RESConsole"
+			],
+			[
+				"RESConsole",
+				"RESConsole"
+			],
+			[
+				"RESConsol",
+				"RESConsoleContainer"
+			],
+			[
+				"OP",
+				"Opera"
+			],
+			[
+				"safari",
+				"safariextension"
+			],
+			[
+				"formatFileL",
+				"formatFileListingsForSafari"
+			],
+			[
+				"postf",
+				"postfix"
+			],
+			[
+				"formatFl",
+				"formatFileListingsForSafari"
+			],
+			[
+				"postfix",
+				"postfixLastLine"
+			],
+			[
+				"mne",
+				"mnemonic"
+			],
+			[
+				"mnem",
+				"mnemonics"
+			],
+			[
+				"mnemoni",
+				"mnemonicsPlus"
+			],
+			[
+				"mnemo",
+				"mnemonicsPlus"
+			],
+			[
+				"getStorage",
+				"getStorageFullKey"
+			],
+			[
+				"registered",
+				"registeredButtons"
+			],
+			[
+				"clone",
+				"cloneNode"
+			],
+			[
+				"redditButton",
+				"redditButtonName"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"overflowButtons",
+				"overflowButtonsRegistered"
+			],
+			[
+				"overl",
+				"overflowButton"
+			],
+			[
+				"save",
+				"save"
+			],
+			[
+				"loadTempl",
+				"loadTemplateDeferred"
+			],
+			[
 				"associated",
 				"associatedOptionKey"
 			],
@@ -164,10 +464,6 @@
 				"loggedInGold"
 			],
 			[
-				"Browser",
-				"BrowserDetect"
-			],
-			[
 				"replyToC",
 				"replyToCommentId"
 			],
@@ -218,49 +514,87 @@
 			[
 				"RESSearch",
 				"RESSearchButton"
-			],
-			[
-				"createElement",
-				"createElementWithID"
-			],
-			[
-				"drawsea",
-				"drawSearchResultsPanel"
-			],
-			[
-				"settings",
-				"settingsNavigation"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/commentTools.js",
+			"contents": "addModule('submitIssue', function(module, moduleID) {\n	module.moduleName = 'Submit an Issue';\n	module.category = 'About RES';\n	module.alwaysEnabled = true;\n\n	module.description = 'If you have any problems with RES, visit <a href=\"/r/RESissues\">/r/RESissues</a>. If you have any requests or questions, visit <a href=\"/r/Enhancement\">/r/Enhancement</a>.';\n	module.include = [ 'submit' ];\n\n	var subreddits = ['enhancement', 'resissues'];\n\n	module.go = function() {\n		if (this.isMatchURL()) {\n			this.checkIfSubmitting();\n		}\n	};\n\n	module.checkIfSubmitting = function() {\n		var thisSubRedditInput = document.getElementById('sr-autocomplete');\n		if (thisSubRedditInput) {\n			var thisSubReddit = thisSubRedditInput.value,\n				title = document.querySelector('textarea[name=title]');\n			if (typeof this.thisSubRedditInputListener === 'undefined') {\n				this.thisSubRedditInputListener = true;\n				thisSubRedditInput.addEventListener('change', function(e) {\n					if (e.res) return;\n					module.checkIfSubmitting();\n				}, false);\n			}\n			if (subreddits.indexOf(thisSubReddit.toLowerCase()) !== -1) {\n				addWizardCSS();\n				this.submittingToEnhancement = addWizardElements();\n				wireUpWizard();\n			} else if (typeof this.submittingToEnhancement !== 'undefined') {\n				this.submittingToEnhancement.parentNode.removeChild(this.submittingToEnhancement);\n				if (title.value === 'Submitting a bug? Please read the box above...') {\n					title.value = '';\n				}\n			}\n		}\n	};\n\n	function addWizardCSS() {\n		RESTemplates.load('submitWizardCSS', function(template) {\n			var css = template.text();\n			RESUtils.addCSS(css);\n		});\n	}\n\n	function addWizardElements() {\n		var textDesc = document.getElementById('text-desc');\n		var submittingToEnhancement = RESUtils.createElementWithID('div', 'submittingToEnhancement', 'RESDialogSmall');\n\n		RESTemplates.load('submitWizard', function(template) {\n			var submittingHTML = template.html();\n			// allowing this use of .html() is a rarity - for readability's sake since there's no variables\n			// or remote input here, we'll be OK.\n			$(submittingToEnhancement).html(submittingHTML);\n		});\n\n		RESUtils.insertAfter(textDesc, submittingToEnhancement);\n\n		return submittingToEnhancement;\n	}\n\n\n	function wireUpWizard() {\n		var title = document.querySelector('textarea[name=title]');\n		setTimeout(function() {\n			$('#submittingToEnhancement').on('click', '#RESSubmitBug',\n				function() {\n					$('#RESSubmitOptions').fadeOut(\n						function() {\n							$('#RESBugReport').fadeIn();\n							var baseUrl = location.protocol + '//' + location.hostname + '/r/RESIssues/wiki/knownissues';\n							BrowserStrategy.ajax({\n								method: 'GET',\n								url: baseUrl + '.json',\n								onload: function(response) {\n									var data = safeJSON.parse(response.responseText),\n										text;\n\n									if (data.data) {\n										var objects = parseObjectList(data.data, baseUrl);\n										var listItems = createLinkList(objects);\n										$('#RESKnownBugs').empty()\n											.append(listItems);\n									}\n								}\n							});\n						}\n					);\n				}\n			);\n			$('#submittingToEnhancement').on('click', '#RESSubmitFeatureRequest',\n				function() {\n					$('#RESSubmitOptions').fadeOut(\n						function() {\n							$('#RESFeatureRequest').fadeIn();\n							BrowserStrategy.ajax({\n								method: 'GET',\n								url: location.protocol + '//' + location.hostname + '/r/Enhancement/wiki/knownrequests.json',\n								onload: function(response) {\n									var data = safeJSON.parse(response.responseText),\n										text;\n\n									if (data.data) {\n										text = data.data['content_md'];\n									}\n									if (text) {\n										var objects = parseObjectList(text);\n										var listItems = createLinkList(objects);\n										$('#RESKnownFeatureRequests').empty()\n											.append(listItems);\n									}\n								}\n							});\n						}\n					);\n				}\n			);\n			$('#submittingToEnhancement').on('click', '#submittingBug',\n				function() {\n					updateSubreddit('RESIssues');\n					$('li a.text-button').click();\n					$('#submittingToEnhancement').fadeOut();\n\n					if (typeof navigator === 'undefined') navigator = window.navigator;\n\n					var txt = '';\n					txt += '*What\\'s the problem?*   \\n';\n					txt += '  ???\\n';\n					txt += '\\n\\n\\n';\n					txt += '*What other browser extensions are installed?*  \\n';\n					txt += '  ???\\n';\n					txt += '\\n';\n					txt += '*Did you read the known issues and search /r/RESissues?*  \\n';\n					txt += '  ???\\n';\n					txt += '\\n\\n\\n';\n					txt += '- Night mode: ' + modules['nightMode'].isNightModeOn() + '\\n';\n					txt += '- RES Version: ' + RESVersion + '\\n';\n					txt += '- Browser: ' + BrowserDetect.browser + '\\n';\n					txt += '- Browser Version: ' + BrowserDetect.version + '\\n';\n					txt += '- Cookies Enabled: ' + navigator.cookieEnabled + '\\n';\n					txt += '- Platform: ' + BrowserDetect.OS + '\\n';\n					txt += '\\n';\n					$('.usertext-edit textarea').val(txt);\n					title.value = '[bug]  ???';\n\n					var guiderText = '\\\n						<p>Summarize your problem in the title and add details in the text:</p> \\\n						<dl> \\\n							<dt>Screenshots!</dt> <dd>A picture is worth a thousand words.</dd> \\\n							<dt>What makes this happen?</dt> <dd>clicked a link, clicked a button, opened an image expando, ... </dd> \\\n							<dt>Where does this happen?</dt> <dd>in a particular subreddit, on comments posts, on frontpage (reddit.com), on /r/all, ...</dd> \\\n						</dl> \\\n						<p>More detail means faster fixes.  Thanks!</p> \\\n						';\n					var buttons = ' \\\n						<footer> \\\n							<small> \\\n								<a href=\"/r/RESissues/wiki/knownissues\">known issues</a> \\\n								|  <a href=\"/r/RESissues/wiki/postanissue\">troubleshooting</a> \\\n							</small> \\\n						</footer> \\\n						';\n\n					guiders.createGuider({\n						attachTo: '#title-field',\n						description: guiderText,\n						buttonCustomHTML: buttons,\n						id: 'first',\n						next: 'second',\n						// offset: { left: -200, top: 120 },\n						position: 3,\n						title: 'Please fill out all the ??? questions',\n						onClose: function() {\n							modules['styleTweaks'].setSRStyleToggleVisibility(true, 'submit-issue-guider');\n						}\n					}).show();\n					modules['styleTweaks'].setSRStyleToggleVisibility(false, 'submit-issue-guider');\n\n				}\n			);\n			$('#submittingToEnhancement').on('click', '#submittingFeature',\n				function() {\n					updateSubreddit('Enhancement');\n					$('#submittingToEnhancement').fadeOut();\n					title.value = '[feature request]    ???';\n				}\n			);\n			$('#submittingToEnhancement').on('click', '#RESSubmitOther',\n				function() {\n					updateSubreddit('Enhancement');\n					$('#submittingToEnhancement').fadeOut();\n					title.value = '';\n				}\n			);\n			$('#submittingToEnhancement').fadeIn();\n		}, 1000);\n	}\n\n	function updateSubreddit(subreddit) {\n		var input = document.querySelector('#sr-autocomplete');\n		input.value = subreddit;\n		var e = new Event('change');\n		e.res = true;\n		input.dispatchEvent(e);\n	}\n\n	function parseObjectList(data, baseUrl) {\n		var toc = window.SnuOwnd.getParser().markdownToHTML(data.content_md);\n			.querySelectorAll('h1, h2, h3, h4, h5, h6');\n			.filter(function(anchor) { return anchor.indexOf('#wiki') === 1; });\n\n		// bugs and anchors should both be arrays with corresponding elements, e.g.\n		var bugObjs = bugs.map(function(bug, index, array) {\n			bug = bug.match(/^(#+)\\s*(.*)/);\n			if (bug) {\n				var obj = {\n					depth: bug[1].length,\n					title: bug[2],\n					url: anchors[index].slice(1, anchors[index].length - 1)\n				};\n			}\n\n			return obj;\n		});\n\n		var maxSections = 2;\n		var sectionsFound = 0;\n		var numItems;\n		for (var i = 0, length = bugs.length; i < length; i++) {\n			if (bugObjs[i].depth === 1) {\n				sectionsFound++;\n				if (sectionsFound > maxSections) {\n					numItems = i;\n					break;\n				}\n			}\n		}\n		bugObjs = bugObjs.slice(0, numItems);\n\n		bugObjs = bugObjs.filter(function(bugObj) { return bugObj.depth > 1; });\n\n\n		return bugObjs;\n	}\n\n	function createLinkList(objects) {\n		var listItems = objects.map(function(bugObj) {\n			if (bugObj.title) {\n				var bugLI = $('<li>');\n				if (bugObj.url) {\n					var bugHTML = $('<a target=\"_blank\">');\n					$(bugHTML).attr('href', bugObj.url).text(bugObj.title);\n					$(bugLI).append(bugHTML);\n				} else {\n					$(bugLI).text(bugObj.title);\n				}\n				return bugLI;\n			}\n		});\n\n		return listItems;\n	}\n});\n",
+			"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/submitIssue.js",
+			"file_size": 8354,
+			"file_write_time": 1422337454000000,
 			"settings":
 			{
-				"buffer_size": 35916,
+				"buffer_size": 8290,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/saveComments.js",
+			"contents": "modules['commentPreview'] = {\n	moduleID: 'commentPreview',\n	moduleName: 'Live Comment Preview',\n	category: 'Comments',\n	options: {\n		enableBigEditor: {\n			type: 'boolean',\n			value: true,\n			description: 'Enable the 2 column editor.'\n		},\n		draftStyle: {\n			type: 'boolean',\n			value: true,\n			description: 'Apply a \\'draft\\' style  background to the preview to differentiate it from the comment textarea.',\n			advanced: true\n		},\n		enableForComments: {\n			type: 'boolean',\n			value: true,\n			description: 'Show preview for comments',\n			advanced: true\n		},\n		enableForPosts: {\n			type: 'boolean',\n			value: true,\n			description: 'Show preview for posts',\n			advanced: true\n		},\n		enableForWiki: {\n			type: 'boolean',\n			value: true,\n			description: 'Show preview for wiki pages',\n			advanced: true\n		},\n		enableForSubredditConfig: {\n			type: 'boolean',\n			value: true,\n			description: 'Show preview for editing subreddit settings',\n			advanced: true\n		},\n		enableForBanMessages: {\n			type: 'boolean',\n			value: true,\n			description: 'Show preview for ban notes',\n			advanced: true\n		},\n		sidebarPreview: {\n			type: 'boolean',\n			value: true,\n			description: 'Show the markdown live preview directly in the sidebar when editing',\n			advanced: true\n		}\n	},\n	description: 'Provides a live preview of comments, as well as a two column editor for writing walls of text.',\n	isEnabled: function() {\n		return RESConsole.getModulePrefs(this.moduleID);\n	},\n	include: [\n		'comments',\n		'inbox',\n		'submit',\n		/^https?:\\/\\/(?:[\\-\\w\\.]+\\.)?reddit\\.com\\/user\\/[\\-\\w\\.\\/]*\\/?/i,\n		/^https?:\\/\\/(?:[\\-\\w\\.]+\\.)?reddit\\.com\\/r\\/[\\-\\w\\.]+\\/about\\/(?:edit|modqueue|reports|spam|banned)/i,\n		'wiki'\n	],\n	isMatchURL: function() {\n		return RESUtils.isMatchURL(this.moduleID);\n	},\n	beforeLoad: function() {\n		if ((this.isEnabled()) && (this.isMatchURL())) {\n			RESUtils.addCSS('.RESDialogSmall.livePreview { position: relative; width: auto; margin-bottom: 15px; }');\n			RESUtils.addCSS('.RESDialogSmall.livePreview > h3 { font-weight: bold; }');\n			RESUtils.addCSS('.RESDialogSmall.livePreview .gearIcon { float: right; margin-right: 1em; }');\n			RESUtils.addCSS('.ban-details .RESDialogSmall.livePreview { width: 505px; }');\n			RESUtils.addCSS('.ban-details { position: relative; }');\n			RESUtils.addCSS('#banned .RESBigEditorPop { float: none; left: 414px; bottom: -45px; position: absolute; }');\n			if (modules['commentPreview'].options.draftStyle.value) {\n				RESUtils.addCSS('.livePreview, .livePreview .md { background: repeating-linear-gradient(-45deg, transparent, transparent 40px, rgba(166,166,166,.07) 40px, rgba(166,166,166,.07) 80px); }');\n			}\n\n		}\n	},\n	go: function() {\n		if ((this.isEnabled()) && (this.isMatchURL())) {\n			this.isWiki = RESUtils.pageType() === 'wiki';\n			this.isBan = /^https?:\\/\\/(?:[\\-\\w\\.]+\\.)?reddit\\.com\\/r\\/[\\-\\w\\.]+\\/about\\/banned/i.test(document.location.href);\n\n			if (!this.isWiki) {\n				this.converter = window.SnuOwnd.getParser();\n			} else {\n				this.subredditImages = {};\n				BrowserStrategy.ajax({\n					method: 'GET',\n					url: location.protocol + '//' + location.hostname + '/r/' + RESUtils.currentSubreddit() + '/about/stylesheet.json',\n					onload: function(response) {\n						var thisResponse;\n						try {\n							thisResponse = JSON.parse(response.responseText);\n						} catch (e) {\n							console.log('commentPreview: Error parsing response from reddit');\n							console.log(response.responseText);\n							return false;\n						}\n						if (thisResponse.data && thisResponse.data.images) {\n							for (var i = 0;i<thisResponse.data.images.length; i++) {\n								modules['commentPreview'].subredditImages[thisResponse.data.images[i].name] = thisResponse.data.images[i].url;\n							}\n						}\n					}\n				});\n				//We need to configure non-default renderers here\n				var SnuOwnd = window.SnuOwnd;\n				var redditCallbacks = SnuOwnd.getRedditCallbacks();\n				var rendererConfig = SnuOwnd.defaultRenderState();\n				rendererConfig.flags = SnuOwnd.DEFAULT_WIKI_FLAGS;\n				rendererConfig.html_element_whitelist = SnuOwnd.DEFAULT_HTML_ELEMENT_WHITELIST;\n				rendererConfig.html_attr_whitelist = SnuOwnd.DEFAULT_HTML_ATTR_WHITELIST;\n				this.converter = SnuOwnd.getParser({\n					callbacks: redditCallbacks,\n					context: rendererConfig\n				});\n\n				this.tocConverter = SnuOwnd.getParser(SnuOwnd.getTocRenderer());\n			}\n\n			this.bigTextTarget = null;\n			if (this.options.enableBigEditor.value) {\n				// Install the 2 column editor\n				modules['commentPreview'].addBigEditorListener();\n\n				if (modules['keyboardNav'].isEnabled()) {\n					$('body').on('keydown', '.usertext-edit textarea, #wiki_page_content', function(e) {\n						if (RESUtils.checkKeysForEvent(e, modules['keyboardNav'].options.openBigEditor.value)) {\n							modules['commentPreview'].showBigEditor.call(this, e);\n						}\n					});\n				}\n			}\n\n			//Close the preview on submit\n			$('body').on('submit', 'form', function() {\n				$(this).find('.livePreview').hide();\n			});\n\n			if (!this.isWiki) {\n				//Perform initial setup of tools over the whole page}\n				this.attachPreview();\n				// Wireup reply editors\n				RESUtils.watchForElement('newCommentsForms', modules['commentPreview'].attachPreview);\n				// Wireup edit editors (usertext-edit already exists in the page)\n				RESUtils.watchForElement('newComments', modules['commentPreview'].attachPreview);\n			} else {\n				this.attachWikiPreview();\n			}\n		}\n	},\n	markdownToHTML: function(md) {\n		if (this.isBan && md.length) {\n			var subreddit = window.location.href.match(/^https?:\\/\\/(?:[\\-\\w\\.]+\\.)?reddit\\.com\\/r\\/([\\-\\w\\.]+)/i)[1];\n\n			md = modules['commentTools'].generateBanMessage(md, subreddit, modules['commentTools'].curSubredditTitle);\n		}\n\n		var body = this.converter.render(md);\n		if (this.isWiki) {\n			/*\n			<s>Snudown, and therefore SnuOwnd, is a bit funny about how it generates its table of contents entries.\n			To when it encounters a header it tries to perform some of the usual inline formatting such as emphasis, strikethoughs, or superscript in headers. The text containing generated HTML then gets passed into cb_toc_header which escapes all of the passed HTML. When reddit gets it escaped tags are stripped.\n\n			It would be nicer if they just used different functions for rendering the emphasis when making headers.</s>\n\n			It seems that my understanding was wrong, for some reason reddit doesn't even use snudown's TOC renderer.\n			*/\n\n			body = body.replace(/<img src=\"%%([a-z0-9\\-]+)%%\"/gi, function(match, name){\n				if (modules['commentPreview'].subredditImages[name]) {\n					return '<img src=\"' + modules['commentPreview'].subredditImages[name] + '\"';\n				}\n				return match;\n			});\n\n			// SnuOwnd created this HTML from markdown so it is safe.\n			var doc = $('<body>').html(body);\n			var header_ids = {};\n			var headers = doc.find('h1, h2, h3, h4, h5, h6');\n			var tocDiv = $('<div>').addClass('toc');\n			var parent = $('<ul>');\n			parent.data('level', 0);\n			tocDiv.append(parent);\n			var level = 0,\n				previous = 0;\n			var prefix = 'wiki';\n			headers.each(function(i, e) {\n				var contents = $(this).text();\n				var aid = $('<div>').html(contents).text();\n				aid = prefix + '_' + aid.replace(/ /g, '_').toLowerCase();\n				aid = aid.replace(/[^\\w\\.\\-]/g, function(s) {\n					return '.' + s.charCodeAt(0).toString(16).toUpperCase();\n				});\n				if (!(aid in header_ids)) {\n					header_ids[aid] = 0;\n				}\n				var id_num = header_ids[aid] + 1;\n				header_ids[aid] += 1;\n\n				if (id_num > 1) {\n					aid = aid + id_num;\n				}\n\n				$(this).attr('id', aid);\n\n				var li = $('<li>').addClass(aid);\n				var a = $('<a>').attr('href', '#' + aid).text(contents);\n				li.append(a);\n\n				var thisLevel = +this.tagName.slice(-1);\n				if (previous && thisLevel > previous) {\n					var newUL = $('<ul>');\n					newUL.data('level', thisLevel);\n					parent.append(newUL);\n					parent = newUL;\n					level++;\n				} else if (level && thisLevel < previous) {\n					while (level && parent.data('level') > thisLevel) {\n						parent = parent.closest('ul');\n						level -= 1;\n					}\n				}\n				previous = thisLevel;\n				parent.append(li);\n			});\n			doc.prepend(tocDiv);\n			return doc.html();\n		} else {\n			return body;\n		}\n	},\n	makeBigEditorButton: function() {\n		return $('<button type=\"button\" class=\"RESBigEditorPop\" tabIndex=\"3\">big editor</button>');\n	},\n	attachPreview: function(usertext) {\n		if (usertext == null) {\n			usertext = document.body;\n		}\n		if (modules['commentPreview'].options.enableBigEditor.value) {\n			if (this.isBan) {\n				modules['commentPreview'].makeBigEditorButton().appendTo('#banned .ban-details:has(textarea)');\n			} else {\n				modules['commentPreview'].makeBigEditorButton().prependTo($('.bottom-area:not(:has(.RESBigEditorPop))', usertext));\n			}\n		}\n		$(usertext).find('.usertext-edit, .ban-details:has(#ban_message)').each(function() {\n			var $this = $(this);\n\n			if ($this.closest('.commentarea, .message').length &&\n					!modules['commentPreview'].options.enableForComments.value) {\n				return;\n			}\n\n			if ((RESUtils.pageType() === 'submit' || $(this).closest('.link').length) &&\n					!modules['commentPreview'].options.enableForPosts.value) {\n				return;\n			}\n\n			if (/^https?:\\/\\/(?:[\\-\\w\\.]+\\.)?reddit\\.com\\/r\\/[\\-\\w\\.]+\\/about\\/edit/i.test(document.location.href) &&\n					!modules['commentPreview'].options.enableForSubredditConfig.value) {\n				return;\n			}\n\n			if (/^https?:\\/\\/(?:[\\-\\w\\.]+\\.)?reddit\\.com\\/r\\/[\\-\\w\\.]+\\/about\\/banned/i.test(document.location.href) &&\n					!modules['commentPreview'].options.enableForBanMessages.value) {\n				return;\n			}\n\n			var preview = $this.find('.livePreview');\n\n			if (preview.length === 0) {\n				preview = modules['commentPreview'].makePreviewBox();\n				$this.append(preview);\n			}\n\n			var contents = preview.find('.RESDialogContents');\n			var textareas = $this.find('textarea[name=text], textarea[name=description], textarea[name=public_description], textarea[name=ban_message]');\n\n			if (textareas.attr('name') === 'description' && modules['commentPreview'].options.sidebarPreview.value) {\n				var sideMd = $('.side .usertext-body .md:first');\n\n				if (sideMd.length) {\n					contents.push(sideMd[0]);\n				}\n			}\n\n			textareas.on('input', modules['commentPreview'].onTextareaInput.bind(this, preview, contents));\n\n			// check for reply --> quoted text\n			$this.closest('.thing').find('.buttons a[onclick*=\"reply\"]') /* terrible selector */\n				.on('click', textareas.trigger.bind(textareas, 'input'));\n			setTimeout(textareas.trigger.bind(textareas, 'input'), 1);\n		});\n	},\n	attachWikiPreview: function() {\n		if (modules['commentPreview'].options.enableBigEditor.value) {\n			modules['commentPreview'].makeBigEditorButton().insertAfter('.markhelp');\n		}\n\n		if (RESUtils.pageType() === 'wiki' && modules['commentPreview'].options.enableForWiki.value) {\n			var preview = modules['commentPreview'].makePreviewBox();\n			preview.find('.md').addClass('wiki');\n			preview.insertAfter($('#editform > br').first());\n\n			var contents = preview.find('.RESDialogContents');\n			$('#wiki_page_content').on('input', modules['commentPreview'].onTextareaInput.bind(this, preview, contents));\n		}\n	},\n	onTextareaInput: function(preview, contents, event) {\n		var textarea = $(event.target);\n		RESUtils.debounce('refreshPreview', 250, function() {\n			var markdownText = textarea.val();\n\n			if (markdownText.length > 0) {\n				var html = modules['commentPreview'].markdownToHTML(markdownText);\n				preview.show();\n				// SnuOwnd created this HTML from markdown so it is safe.\n				contents.html(html);\n			} else {\n				preview.hide();\n				contents.html('');\n			}\n		});\n	},\n	makePreviewBox: function() {\n		var previewBox = $('<div style=\"display: none\" class=\"RESDialogSmall livePreview\"><h3>Live Preview</h3><div class=\"md RESDialogContents\"></div></div>');\n		var urlHashLink = modules['settingsNavigation'].makeUrlHashLink('commentPreview', null, ' ', 'gearIcon');\n		previewBox.find('h3').append(urlHashLink);\n\n		return previewBox;\n\n	},\n	createBigEditor: function() {\n		if (modules['commentPreview'].bigEditor) {\n			return;\n		}\n		var editor = $('<div id=\"BigEditor\" style=\"display: none;\">');\n		var left = $('<div class=\"BELeft RESDialogSmall\"><h3>Editor</h3></div>');\n		var contents = $('<div class=\"RESDialogContents\"><textarea id=\"BigText\" name=\"text\" class=\"\"></textarea></div>');\n		var foot = $('<div class=\"BEFoot\">');\n		if (!this.isBan) {\n			foot.append($('<button type=\"button\">save</button>').on('click', function() {\n				var len = $('#BigText').val().length;\n				var max = $('#BigText').data('max-length');\n				if (len > max) {\n					$('#BigEditor .errorList .error').hide().filter('.TOO_LONG').text('this is too long (max: ' + max + ')').show();\n				} else if (len === 0) {\n					$('#BigEditor .errorList .error').hide().filter('.NO_TEXT').show();\n				} else if (modules['commentPreview'].bigTextTarget) {\n					modules['commentPreview'].bigTextTarget.closest('form').find('button[type=submit]').click();\n					modules['commentPreview'].bigTextTarget.parents('.usertext-edit:first').find('.livePreview .md').html('');\n					modules.commentPreview.hideBigEditor(false, true);\n				} else {\n					$('#BigEditor .errorList .error').hide().filter('.NO_TARGET').show();\n				}\n			}));\n		}\n		foot.append($('<button type=\"button\">close</button>').on('click', modules.commentPreview.hideBigEditor));\n\n		foot.append($('<span class=\"errorList\">\\\n			<span style=\"display: none;\" class=\"error NO_TEXT\">we need something here</span>\\\n			<span style=\"display: none;\" class=\"error TOO_LONG\">this is too long (max: 10000)</span>\\\n			<span style=\"display: none;\" class=\"error NO_TARGET\">there is no associated textarea</span>\\\n			</span>'));\n\n		contents.append(foot);\n		left.append(contents);\n\n		var right = $('<div class=\"BERight RESDialogSmall\"><h3>Preview</h3><div class=\"RESCloseButton RESFadeButton\">&#xf04e;</div><div class=\"RESCloseButton close\">X</div>\\\n			<div class=\"RESDialogContents\"><div id=\"BigPreview\" class=\" md\"></div></div></div>');\n		editor.append(left).append(right);\n		if (modules['commentTools'].isEnabled()) {\n			contents.prepend(modules['commentTools'].makeEditBar());\n		}\n\n		$(document.body).append(editor);\n\n		$('.BERight .RESCloseButton.close').on('click', modules.commentPreview.hideBigEditor);\n		$('.BERight .RESFadeButton').on('click', function(e) {\n				if (this.isFaded) {\n					$('#BigEditor').fadeTo(300, 1.0).css('pointer-events','auto');\n					$(document.body).addClass('RESScrollLock');\n				}\n				else {\n					$('#BigEditor').fadeTo(300, 0.3).css('pointer-events','none');\n					$(document.body).removeClass('RESScrollLock');\n				}\n				this.isFaded = !this.isFaded;\n		});\n\n		$('#BigText').on('input', function() {\n			RESUtils.debounce('refreshBigPreview', 250, function() {\n				var text = $('#BigText').val();\n				var html = modules['commentPreview'].markdownToHTML(text);\n\n				// SnuOwnd created this HTML from markdown so it is safe.\n				$('#BigPreview').html(html);\n				if (modules['commentPreview'].bigTextTarget) {\n					modules['commentPreview'].bigTextTarget.val(text);\n				}\n			});\n		}).on('keydown', function(e) {\n			//Close big editor on escape\n			if (e.keyCode === modules['commentTools'].KEYS.ESCAPE) {\n				modules['commentPreview'].hideBigEditor();\n				e.preventDefault();\n				return false;\n			}\n		});\n\n		modules['commentPreview'].bigEditor = editor;\n	},\n	addBigEditorListener: function() {\n		$('body').on('click', '.RESBigEditorPop', modules.commentPreview.showBigEditor);\n	},\n	showBigEditor: function(e) {\n		var limit, baseText;\n\n		e.preventDefault();\n		modules['commentPreview'].createBigEditor();\n		// modules.commentPreview.bigTextTarget = null;\n		modules.commentPreview.hideBigEditor(true);\n		$('.side').addClass('BESideHide');\n		$('body').addClass('RESScrollLock');\n		RESUtils.fadeElementIn(document.getElementById('BigEditor'), 0.3);\n		if (!modules['commentPreview'].isWiki && !modules['commentPreview'].isBan) {\n			baseText = $(this).parents('.usertext-edit:first').find('textarea');\n\n			limit = $(baseText).attr('data-limit');\n			$('#BigText').attr('data-limit', limit);\n			$('#BigPreview').removeClass('wiki');\n			$('.BERight .RESDialogContents').removeClass('wiki-page-content');\n		} else if (modules['commentPreview'].isBan) {\n			baseText = $('#ban_message');\n\n			limit = $(baseText).attr('data-limit');\n			$('#BigText').attr('data-limit', limit);\n			$('#BigPreview').removeClass('wiki');\n			$('.BERight .RESDialogContents').removeClass('wiki-page-content');\n		} else {\n			baseText = $('#wiki_page_content');\n			$('#BigPreview').addClass('wiki');\n			$('.BERight .RESDialogContents').addClass('wiki-page-content');\n		}\n\n		var markdown = baseText.val();\n		var maxLength = baseText.data('max-length');\n		$('#BigText').data('max-length', maxLength).val(markdown).focus();\n		modules['commentTools'].updateCounter($('#BigText')[0]);\n		// SnuOwnd created this HTML from markdown so it is safe.\n		$('#BigPreview').html(modules['commentPreview'].markdownToHTML(markdown));\n		modules.commentPreview.bigTextTarget = baseText;\n\n		// dynamically set paddingBottom on .RESDialogContents to make textarea scale correctly.\n		var dialogTitle = document.querySelector('.BELeft h3');\n		var editorWrapperHeight = document.querySelector('.BELeft .RESDialogContents .markdownEditor-wrapper');\n		editorWrapperHeight = (editorWrapperHeight ? editorWrapperHeight.offsetHeight : 0);\n		var dialogFooter = document.querySelector('.BELeft .BEFoot');\n		var dialogContentBox = document.querySelector('.BELeft .RESDialogContents');\n		dialogContentBox.style.paddingBottom =\n			dialogTitle.offsetHeight - 10 + // add offsetHeight and subtract margin\n			editorWrapperHeight +\n			dialogFooter.offsetHeight +\n			'px';\n	},\n	hideBigEditor: function(quick, submitted) {\n		if (quick === true) {\n			$('#BigEditor').hide();\n		} else {\n			RESUtils.fadeElementOut(document.getElementById('BigEditor'), 0.3);\n		}\n		$('.side').removeClass('BESideHide');\n		$('body').removeClass('RESScrollLock');\n		var target = modules['commentPreview'].bigTextTarget;\n\n		if (target !== null) {\n			target.val($('#BigText').val());\n			target.focus();\n			if (submitted !== true) {\n				var inputEvent = document.createEvent('HTMLEvents');\n				inputEvent.initEvent('input', true, true);\n				target[0].dispatchEvent(inputEvent);\n			}\n			modules['commentPreview'].bigTextTarget = null;\n		}\n	}\n};\n",
+			"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/commentPreview.js",
+			"file_size": 18260,
+			"file_write_time": 1422337397000000,
 			"settings":
 			{
-				"buffer_size": 13165,
+				"buffer_size": 18260,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/core/utils.js",
+			"settings":
+			{
+				"buffer_size": 58745,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/subredditManager.js",
+			"settings":
+			{
+				"buffer_size": 74887,
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "Packages/User/Reddit Enhancement Suite.sublime-build",
+	"build_system": "Reddit Enhancement Suite - all extensions",
 	"command_palette":
 	{
-		"height": 47.0,
+		"height": 107.0,
 		"selected_items":
 		[
 			[
+				"jslint",
+				"JSLint: Run JSLint"
+			],
+			[
+				"origami save",
+				"Origami: Save Current Layout"
+			],
+			[
+				"orig",
+				"Origami: Save Current Layout"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
 				"package remove",
 				"Package Control: Remove Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
 			],
 			[
 				"install ",
@@ -275,7 +609,7 @@
 				"Format: Javascript"
 			]
 		],
-		"width": 467.0
+		"width": 476.0
 	},
 	"console":
 	{
@@ -292,47 +626,134 @@
 	},
 	"file_history":
 	[
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/storage.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/styleTweaks.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/init.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/utils.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/init.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/alert.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/core/utils.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/showImages.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/usernameHider.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/core/templates.html",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/nightmode.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/README.md",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Opera/browsersupport.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/browsersupport-chrome.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/RES.safariextension/browsersupport-safari.js",
 		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/browsersupport.js",
-		"/Users/andytuba/Code/snippets/build_RES.sh",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/manifest.json",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/tests.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/OperaBlink/browsersupport-chrome.js",
 		"/Users/andytuba/Code/Reddit-Enhancement-Suite/RES.safariextension/background-safari.html",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/templates.html",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/RES.safariextension/modules/subredditInfo.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/XPI/package.json",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/XPI/lib/main.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Opera/config.xml",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/OperaBlink/manifest.json",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/accountSwitcher.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/templates.html",
-		"/Users/andytuba/Code/snippets/Reddit-Enhancement-Suite.sublime-project",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/BUILD.md",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/troubleshooter.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/notifications.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/commentNavigator.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/betteReddit.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/res.css",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/reddit_enhancement_suite.user.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/nightmode.css",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/res.css",
-		"/Users/andytuba/Code/gists/samelawrence-regression/samelawrence-isMatchURL__1385760810757.json",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/patch.diff",
-		"/Users/andytuba/Downloads/isMatchURL__1385759644199.json",
-		"/Users/andytuba/Downloads/isMatchURL-1385759452734.json",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/RES.safariextension/jquery.dragsort-0.6.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/RES.safariextension/Info.plist",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/reddit_enhancement_suite.user.js",
+		"/Users/andytuba/Code/snippets/build_RES.sh",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/keyboardNav.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/userTagger.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/commandLine.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/core/console.js",
 		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/background.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/jquery.dragsort-0.4.3.min.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/jquery.dragsort-0.4.3.min.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/jquery.dragsort.js",
-		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Opera/modules/jquery-1.9.1.min.js"
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Opera/index.html",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/XPI/lib/main.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/OperaBlink/background.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/OperaBlink/manifest.json",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/subredditManager.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/singleClick.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/core/template.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/accountSwitcher.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/neverEndingReddit.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/core/utils.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/dashboard.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/nightMode.js",
+		"/Users/andytuba/Code/snippets/Reddit-Enhancement-Suite.sublime-project",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/saveComments.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/RESTips.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/core/menu.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/core/settings.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/bitcointip.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/core/storage.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/commentTools.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/filteReddit.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/core/console.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/userHighlight.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/spamButton.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/settingsNavigation.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/betteReddit.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/commentHidePersistor.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/commentNavigator.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/commentPreview.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/context.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/hideChildComments.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/localDate.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/logoLink.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/newCommentCount.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/searchHelper.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/showKarma.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/showParent.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/snoonet.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/styleTweaks.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/subredditInfo.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/subredditTagger.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/tableTools.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/uppersAndDowners.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/utils/wikiCheck.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/reddit_enhancement_suite.user.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/core/init.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/core/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/sourceSnudown.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/submitIssue.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/hover.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/core/migrate.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/notifications.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/vendor/guiders-1.2.8.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/quickMessage.js",
+		"/Users/andytuba/Code/RES_build/sidebar/enhancement.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/utils.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/vendor/guiders.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/noParticipation.js",
+		"/Users/andytuba/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/XPI/data/init.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/XPI/data/browsersupport.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/XPI/data/browsersupport-firefox.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/XPI/package.json",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/stylesheet.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/contexts.js",
+		"/Users/andytuba/Library/Application Support/Sublime Text 2/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/RES.safariextension/Info.plist",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/manifest.json",
+		"/Users/andytuba/Library/Application Support/Sublime Text 2/Packages/User/sublime-jslint.sublime-settings",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/XPI/lib/storage.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/makelinks.sh",
+		"/Users/andytuba/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/private/var/folders/53/2gt24bc13q1_h2h1cxnr60r40000gn/T/tmpO0TDAa.mozrunner/res.sqlite",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/hosts/hosts.json",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/hosts/mediacrush.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/upload.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/BUILD.md",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Opera/init.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/init.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/reddit_enhancement_suite.user.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/userbarHider.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/RES.safariextension/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/core/alert.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/node_modules/handlebars/node_modules/uglify-js/test/compress/issue-143.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/vendor/players.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/vendor/jquery-1.11.1.min.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/vendor/imgurgifv.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Chrome/core/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/voteEnhancements.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/Opera/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/OperaBlink/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext/Chrome/app/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext/OperaBlink/app/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext/RES.safariextension/app/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext/XPI/data/app/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext-makelinks/Chrome/app/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext-makelinks/Opera/include/app/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext-makelinks/Opera/include/modules/accountSwitcher.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext-makelinks/Opera/include/modules/commentNavigator.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext-makelinks/Opera/include/modules/dashboard.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext-makelinks/Opera/include/modules/neverEndingReddit.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext-makelinks/Opera/include/modules/subredditManager.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext-makelinks/Opera/include/modules/userTagger.js",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext-makelinks/OperaBlink/app/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext-makelinks/RES.safariextension/app/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/temp/ext-makelinks/XPI/data/app/res.css",
+		"/Users/andytuba/Code/Reddit-Enhancement-Suite/XPI/data/res.css",
+		"/Users/andytuba/Code/RES_build/reddit_res/resources/reddit_res/data/res.css",
+		"/Users/andytuba/Code/RES_build/reddit_res/resources/reddit_res/data/modules/accountSwitcher.js",
+		"/Users/andytuba/Code/RES_build/reddit_res/resources/reddit_res/data/modules/commentNavigator.js"
 	],
 	"find":
 	{
@@ -343,50 +764,134 @@
 		"height": 0.0,
 		"where_history":
 		[
-			"lib/*.js",
-			"",
-			"lib/*.js",
 			"*.js",
-			"",
+			"browsersupport-*.js",
 			"*.js",
-			"",
-			"*.html",
-			"",
-			"*.html",
-			"*.html,*.js",
-			"",
-			"*.html",
-			"",
-			"",
-			"",
-			"*.html",
-			"",
-			"*.html,*.js",
-			"*.html",
-			"",
-			"*.js",
-			"*.html",
-			"*.html",
-			"*.html",
-			"*.html",
-			"*.html,*.js",
-			"*.html",
-			"*.scs",
-			"*.html,*.p",
-			"",
-			"*.js",
-			"*.js",
-			"*.html",
 			"*.js,*.html",
+			"*.css",
+			"*.js",
+			"*.s",
+			"",
+			"*.js",
+			"*.css,*.js",
+			"*.css,*.s",
+			"",
+			"lib/*.js",
+			"*.js",
+			"",
+			"*.js",
+			"Opera",
+			"",
+			"XPI/*.js",
+			"*.js",
+			"*.js,-console.js",
+			"*.js",
+			"",
+			"lib/*",
+			"*",
+			"lib/*",
+			"lib/",
+			"",
+			"lib/modules/*.js",
+			"",
+			"*.js",
+			"Opera/*",
+			"Opera",
+			"",
+			"lib/*",
+			"*.html,*.js,*.css",
+			"",
+			"opera/*",
+			"",
+			"lib/*.js",
+			"*.js,-jquery*",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.js,*.css",
+			"",
+			"*.js",
+			"lib/modules/*.js",
+			"*.js,-jquery*",
+			"*.js,-jquery.*",
+			"*.js",
+			"*",
+			"*.css,*.js",
+			"*.css",
+			"*.js",
+			"*.css",
+			"*.js",
+			"*.js,*.css",
+			"*.js",
+			"*.js,*.html",
+			"*.js",
+			"*.ks",
+			"lib/**/*.js",
+			"lib/*/*.js",
+			"lib/*.js",
+			"*.js",
+			"lib/",
+			"",
+			"*.css",
+			"*.js",
+			"",
+			"templates/*.html",
+			"",
+			"*.js",
+			"modules/*.js",
+			"*.js",
+			"modules/*.js",
+			"",
+			"*.js",
+			"*.plist",
+			"*.js",
+			"*.jss",
+			"*.css",
+			"*.js",
+			"*.js,*.css",
+			"*.js",
+			"lib/*.js",
+			"*.js",
+			"",
+			"lib/*.js",
+			"",
+			"lib/*.js",
+			"*.js",
 			"",
 			"*.js",
 			"",
-			"*.html,*.js",
-			"*.html",
 			"*.html",
 			"",
 			"*.html",
-			"*.html"
+			"*.py",
+			"*.html,*.js",
+			"",
+			"*.scss",
+			"*.html",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"scss",
+			"scs",
+			"",
+			"*.html",
+			"",
+			"*.html,*.js",
+			"*.html",
+			"",
+			"*.js",
+			"*.html",
+			"-compass_app_log.txt,-*.css",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.scss,*.js",
+			"*.html",
+			"*.html,*.js",
+			"*.html,*.py",
+			"*.html",
+			"*.scss"
 		]
 	},
 	"find_state":
@@ -394,134 +899,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"styletweaks",
-			"handlenightmodeatstart",
-			"dark",
-			"createelementwithid",
-			"troubleshooter.js",
-			"resloadcallbacks",
-			"transactions",
-			"RESLoadResourceAsText",
-			"attempting to load templates",
-			"reddit_res",
-			"gm_xmlhttprequest(",
-			"safarimessagehandler",
-			"gm_xmlhttprequest",
-			"resloadresourceastext",
-			"restemplates",
-			"gettext",
-			"selection",
-			"macroselection",
-			"fillplace",
-			"macroSelection(",
-			"macroselection(",
-			"sticky",
-			"stickytoggle",
-			"sticky\"",
-			"enabled",
-			"resnotificationtoggle",
-			"renderheaderhtml",
-			"enabled ",
-			"authorinfotooltip",
-			"notifications']",
-			"notification',",
-			"authorinfotooltip",
-			"debugge",
-			".begin(",
-			".opendelay",
-			"options:",
-			".defaults",
-			"var hover =",
-			"modules['hover']",
-			"RESUtils.hover",
-			"^modules\\['",
-			"modules['",
-			"lightordark",
-			"hash:",
-			"header",
-			"darkmode",
-			"autocolorusing:",
-			"nextpage:",
-			"loaded\"",
-			"('neverending",
-			"neverending",
-			"placeholders",
-			"dotextcolor(",
-			"autocolorusing:",
-			"autocolorusing",
-			"values.",
-			"values",
-			"hashed-userid-consistent",
-			"hash-userid",
-			"scanpagefornewusernames",
-			"autocolorusernames",
-			"autocolorusernames:",
-			"autocolorusernames",
-			"fadeelementout",
-			"<label",
-			"enabled",
-			"loadnewpage",
-			".modalwidget",
-			"modalcontent",
-			"returntoprevpagecheck",
-			"returntoprevpage",
-			"neverendingreddit",
+			"resmodules.subredditmanager.",
+			"shortcuts",
+			"resmodules.subreddit",
+			"markdowntohtml",
+			"iswikiW",
+			"iswiki",
+			"snuownd",
+			"snudown",
+			"parseobjectlist",
+			".usertext",
+			"getHeaderMenuList",
+			"openlinkinnewtab",
+			"openinnewwindow",
+			"navigateto",
+			"newwindow",
+			"openlink",
+			"openInNewWindow",
+			"Searching 377 files for \"openninnewwindow\"\nopenninnewwindow",
+			"openninnewwindow",
+			"opennewwindow",
+			"opennewwindow(",
+			"opennewwindow",
+			"sortsubmenu",
+			"pagetype =",
+			"pagetype",
+			"getsubreddits",
+			"dropdown",
+			"dropdowncontainer",
+			"srdropdowncontainer",
+			"my subreddits",
+			"openlinkinnewtab",
+			"usertaggeropenlink",
+			".link",
+			"singleclick",
+			"'singleclick'",
+			"ispaused",
+			"paused",
+			"ispaused",
+			"reversepauseicon",
+			"'singleclick'",
+			"singleclick",
+			"lctagged",
+			"subredditregex",
+			"singleclick",
+			".button",
+			"openinnewwindow",
+			"attachvotehandlers",
+			".votestates",
+			"attachvotehandlers",
+			"arrow",
+			"attachvotehandlers",
+			"addsavelinktocomment",
+			"addsavelinks",
+			"background",
+			"openlinkinnewtab",
+			"inbackground",
+			"subredditstyleswhitelist",
+			"nicedatetime(",
 			"this.",
-			".value = ",
-			".value =",
-			"'enabled'",
-			"notificationclosed",
-			"notifications",
-			"returntoprevpage",
-			"content",
-			"contentobj",
-			".message",
-			"'all'",
-			"'enum'",
-			"mapObjectToTableOption",
-			"mapTableOptionToObject",
-			"notificationId",
-			"resutils",
-			"RESutils",
-			"sticky",
-			"setnotificationtimer",
-			"my_username",
-			"selection",
-			"usertagger",
-			"resoptions.",
-			"filtereddit",
-			"resmodules.",
-			"modules['",
-			"modules\\['[\\w]+\\]",
-			"modules['",
-			"editshortcutdialog",
-			"resdialogcontents",
-			"width: 450",
-			"width: 4",
-			"hover.begin",
-			": 400",
-			"editshortcutdialog",
-			"#editShortcutDialog",
-			"editShortcutDialog",
-			".set",
-			"resUtils.hover",
-			"mouseleave",
-			"closeonmouseout",
-			"fadeDelay",
-			"header",
-			"isnan",
-			"getoradd",
-			"hash:",
-			" = '';",
-			"shownotification({",
-			"resstorage.storeModuleOptions",
-			"addnew",
-			"saveModuleOptions",
-			"saveOptions",
-			"saveOptions:",
-			"resstorage",
-			"setitem('resoptions",
-			"type: 'table'"
+			"minifyoptions",
+			"checkfilterformat",
+			"RESStorage\\.(get|set)Item\\('RESoptions\\.",
+			"RESStorage\\.[get|set]Item\\('RESoptions\\.",
+			"migratedata",
+			".load(",
+			"resstorage.getItem('resoptions.",
+			"resstorage.getItem('resoptions",
+			"resconsole.",
+			"resconsole",
+			"consolelink",
+			"settingsbutton",
+			"resconsole.",
+			"RESConsole.getModulePrefs",
+			"},",
+			": function",
+			"resconsole.",
+			"resconsole",
+			"resconsole.",
+			"enablemodul",
+			"resconsole.",
+			"this.",
+			"this.RE",
+			"this.",
+			"resconsoleversion",
+			"this.",
+			"categories",
+			"this.",
+			"resconsole.",
+			"this.",
+			"getmoduleidsbycategory",
+			"resconsole.",
+			"resprefslink",
+			"resconsole.",
+			"Resconsole.",
+			"showprefsdropdown",
+			"create",
+			"this",
+			"addconsolelink",
+			"this",
+			"modmail",
+			"isfixed",
+			"handle",
+			"thisdelete",
+			"notallblank",
+			"esconsolecontainer",
+			"deletebutton",
+			"resshortcutstrash",
+			"trash",
+			"move",
+			"pro",
+			"optionRow",
+			"optionrowcount",
+			"<cupcake",
+			"cupcake",
+			"moduleOptionsSaveStatus",
+			"thissavebutton",
+			"savecurrentmoduleoptios",
+			"thissavebutton",
+			"searchstring(",
+			".searchstrings",
+			"openbackground",
+			"commentingas",
+			"lctagged",
+			".each",
+			"accountmenu",
+			"getuserinfo",
+			"updateuserdetails",
+			"getuserinfo"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -529,6 +1034,85 @@
 		"regex": false,
 		"replace_history":
 		[
+			"RESSettings.getModulePrefs",
+			"",
+			"RESConsole",
+			"documentClasses.add",
+			"documentClasses",
+			"'",
+			"listAllMatches",
+			"",
+			"ByState",
+			"elementsFromEvent",
+			"elementsFromMutation",
+			"RESUtils",
+			"",
+			"https://s3.amazonaws.com/a.thumbs.redditmedia.com/PkckcN8_3ijRUVP-GUQ6E-c8Ash_jQ3kCrEAoqKjSC4.png",
+			"https://s3.amazonaws.com/b.thumbs.redditmedia.com/tBwwK20XXxtpgudWx1L7bDXla-iotv-JA0jgA0Y-FVs.png",
+			"onlyLoadAlbumsSmallerThan",
+			"modules['commandLine'].registerCommand(",
+			"',",
+			"",
+			"'",
+			"",
+			"enableFor",
+			"getCommandSpec",
+			"str = $1;",
+			"str = $1",
+			"",
+			"VoteWithoutToggling",
+			"getVersionNumbers",
+			"migrators.",
+			"xF15A",
+			"position",
+			"metadata.checkPosition",
+			"",
+			"    ",
+			"No Participation",
+			"undoVoteAutomatically",
+			"automaticallyUndoVote",
+			".contains(",
+			"'",
+			"\"",
+			"userbar",
+			"BrowserStrategy.sendMessage",
+			"BrowserStrategy.$1",
+			"RESConsole.RESConsoleContainer",
+			"RESConsole",
+			"",
+			"temp/ext/",
+			"XPI/data",
+			"/* version */",
+			"+",
+			" + ",
+			"dessicated",
+			"shortProperty",
+			"shortProperties",
+			"",
+			"module",
+			"",
+			"module",
+			"",
+			"#RESConsoleContent",
+			"#RESConfigPanelOptions",
+			"'About RES'",
+			"'<span class=\"gearIcon\"/> About RES'",
+			"module.category = ' About RES';",
+			"'",
+			"",
+			"$1;",
+			";",
+			"};",
+			"RESUtils.$1 =",
+			"$1;",
+			"RESUtils.$1 =",
+			"container, prefix)",
+			"",
+			"SelectorAll(prefix + ",
+			"selectorAll(prefix + ",
+			"",
+			"widget.find",
+			"module",
 			"hover",
 			"modules['hover']",
 			"hash-userid",
@@ -577,84 +1161,7 @@
 			"<div data-name=\"pb_product3\" \n                data-class=\"openable openable-exclusive\" \n                data-exclusive=\"preview\" \n                <",
 			"<div data-name=\"pb_product3\" \n                data-class=\"openable openable-exclusive\" \n                data-exclusive=\"preview\" \n                ",
 			"data-target=\"pb_prod",
-			"javascript:;",
-			"data-class=\"open\" data-target=\"",
-			"data-name=\"\\1\" data-class=\"openable openable-exclusive\" data-exclusive=\"preview\"",
-			"RESStorage.getItemsAsync",
-			"getvars",
-			"embedhelp",
-			"padit",
-			"class=\"butt dlt uprightcorner\" data-class=\"close\"",
-			"<div class=\"modal centertxt\" data-class=\"openable\">",
-			"",
-			"data-class=\"close\"",
-			"<div class=\"modal centertxt\" data-class=\"openable\" data-name=\"modal-\">",
-			"data-class=lightbox",
-			"this",
-			"data",
-			"getItemsAsyncThen",
-			"bindTrailingArguments",
-			"[].slice.call",
-			"Array.slice",
-			"commentCounts",
-			"",
-			"consoleModules['navigation']",
-			"\\t\\",
-			"RESModuleSettings.",
-			"RESModules.",
-			"",
-			"Extension.version",
-			"",
-			"Settings.getOptions",
-			"Settings.setOption",
-			"Settings.$1(",
-			"Settings.$1",
-			"next",
-			"dates['nextactiveday']",
-			"dates['prevactiveday']",
-			"day",
-			"datetime.date(",
-			"datetime.date",
-			"= datetime.datetimedatetime.date",
-			"= datetime.datetime",
-			"next",
-			"nextyear",
-			"</dd>",
-			"<dt>",
-			"prev",
-			"",
-			"prices.",
-			"campaign.",
-			"dims2",
-			"dims1",
-			"",
-			"window.console.log",
-			"MutationObserver",
-			"mo",
-			"page",
-			" href",
-			" request.user.",
-			" request.user",
-			"ave",
-			".showEdit",
-			"toggleEdit",
-			"toggleFaveButton",
-			"loadActiveImageDetails",
-			"loadNextImage",
-			"loadPreviousImage",
-			"loadImage",
-			"data-lightbox=\"\\1\"",
-			":",
-			"data-",
-			"data-image-id",
-			"showImage",
-			"break; case:",
-			"changeToPrevImage",
-			"myLightbox.activeShareData",
-			"images",
-			".getCal",
-			"ShutterCal.GetCalendarUrl",
-			"myLightbox.\\1"
+			"javascript:;"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -665,28 +1172,23 @@
 	"groups":
 	[
 		{
-			"sheets":
-			[
-			]
-		},
-		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/commentTools.js",
+					"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/submitIssue.js",
 					"settings":
 					{
-						"buffer_size": 35916,
+						"buffer_size": 8290,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								25685,
-								25685
+								2692,
+								2692
 							]
 						],
 						"settings":
@@ -695,25 +1197,25 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 10316.0,
+						"translation.y": 1080.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/saveComments.js",
+					"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/commentPreview.js",
 					"settings":
 					{
-						"buffer_size": 13165,
+						"buffer_size": 18260,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								180,
-								180
+								5416,
+								5416
 							]
 						],
 						"settings":
@@ -722,7 +1224,121 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3078.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/commentPreview.js",
+					"settings":
+					{
+						"buffer_size": 18260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11356,
+								11370
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 28.0,
+						"translation.y": 4883.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 0,
+					"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/submitIssue.js",
+					"settings":
+					{
+						"buffer_size": 8290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7068,
+								7140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3160.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/core/utils.js",
+					"settings":
+					{
+						"buffer_size": 58745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4831,
+								4831
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2115.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/andytuba/Code/Reddit-Enhancement-Suite/lib/modules/subredditManager.js",
+					"settings":
+					{
+						"buffer_size": 74887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66013,
+								66060
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 346.0,
+						"translation.y": 22716.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -758,7 +1374,7 @@
 		"cols":
 		[
 			0.0,
-			0.22871258529,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -770,7 +1386,11 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 278.0
+		"height": 28.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 106.0
 	},
 	"replace":
 	{
@@ -783,172 +1403,516 @@
 		"selected_items":
 		[
 			[
-				"save",
-				"Reddit-Enhancement-Suite/lib/modules/saveComments.js"
+				"subredditmanag",
+				"lib/modules/subredditManager.js"
 			],
 			[
-				"storagejs",
-				"Reddit-Enhancement-Suite/lib/storage.js"
+				"commentp",
+				"lib/modules/commentPreview.js"
 			],
 			[
-				"commenttol",
-				"Reddit-Enhancement-Suite/lib/modules/commentTools.js"
+				"uti",
+				"lib/core/utils.js"
 			],
 			[
-				"modulestyle",
-				"Reddit-Enhancement-Suite/lib/modules/styleTweaks.js"
+				"submitissu",
+				"lib/modules/submitIssue.js"
 			],
 			[
-				"init",
-				"Reddit-Enhancement-Suite/lib/init.js"
+				"nightmode",
+				"lib/modules/nightmode.css"
 			],
 			[
-				"manifestjson",
-				"Reddit-Enhancement-Suite/Chrome/manifest.json"
+				"templates",
+				"lib/core/templates.html"
+			],
+			[
+				"usernamehide",
+				"lib/modules/usernameHider.js"
+			],
+			[
+				"showima",
+				"lib/modules/showImages.js"
+			],
+			[
+				"utils",
+				"lib/core/utils.js"
+			],
+			[
+				"readme",
+				"Reddit-Enhancement-Suite/README.md"
+			],
+			[
+				"background-",
+				"Reddit-Enhancement-Suite/RES.safariextension/background-safari.html"
+			],
+			[
+				"browser-safar",
+				"Reddit-Enhancement-Suite/RES.safariextension/browsersupport-safari.js"
+			],
+			[
+				"browsersupport",
+				"Reddit-Enhancement-Suite/Opera/browsersupport.js"
+			],
+			[
+				"browser-ch",
+				"Reddit-Enhancement-Suite/OperaBlink/browsersupport-chrome.js"
+			],
+			[
+				"browser-",
+				"Reddit-Enhancement-Suite/Chrome/browsersupport-chrome.js"
+			],
+			[
+				"browsersu",
+				"lib/browsersupport.js"
 			],
 			[
 				"build",
 				"snippets/build_RES.sh"
 			],
 			[
-				"",
-				"Reddit-Enhancement-Suite/lib/modules/tests.js"
+				"accountswi",
+				"lib/modules/accountSwitcher.js"
 			],
 			[
-				"xpijson",
+				"subredditman",
+				"lib/modules/subredditManager.js"
+			],
+			[
+				"keyboardnav",
+				"lib/modules/keyboardNav.js"
+			],
+			[
+				"subredditmanage",
+				"lib/modules/subredditManager.js"
+			],
+			[
+				"browserst",
+				"lib/browsersupport.js"
+			],
+			[
+				"browsers-",
+				"Reddit-Enhancement-Suite/Chrome/browsersupport-chrome.js"
+			],
+			[
+				"rowserst",
+				"lib/browsersupport.js"
+			],
+			[
+				"usertagger",
+				"lib/modules/userTagger.js"
+			],
+			[
+				"browsersuppo",
+				"lib/browsersupport.js"
+			],
+			[
+				"operablink",
+				"Reddit-Enhancement-Suite/OperaBlink/manifest.json"
+			],
+			[
+				"nevere",
+				"lib/modules/neverEndingReddit.js"
+			],
+			[
+				"tem",
+				"lib/core/template.js"
+			],
+			[
+				"operaback",
+				"Reddit-Enhancement-Suite/OperaBlink/background.js"
+			],
+			[
+				"safariht",
+				"Reddit-Enhancement-Suite/RES.safariextension/background-safari.html"
+			],
+			[
+				"operabackgr",
+				"Reddit-Enhancement-Suite/OperaBlink/background.js"
+			],
+			[
+				"resutils",
+				"Reddit-Enhancement-Suite/Chrome/core/utils.js"
+			],
+			[
+				"singleclick",
+				"lib/modules/singleClick.js"
+			],
+			[
+				"neverending",
+				"lib/modules/neverEndingReddit.js"
+			],
+			[
+				"console.js",
+				"lib/core/console.js"
+			],
+			[
+				"build_",
+				"snippets/build_RES.sh"
+			],
+			[
+				"keyboard",
+				"lib/modules/keyboardNav.js"
+			],
+			[
+				"savecom",
+				"lib/modules/saveComments.js"
+			],
+			[
+				"nightmode.js",
+				"lib/modules/nightMode.js"
+			],
+			[
+				"xpimain",
+				"Reddit-Enhancement-Suite/XPI/lib/main.js"
+			],
+			[
+				"build_res",
+				"snippets/build_RES.sh"
+			],
+			[
+				"restips",
+				"lib/modules/RESTips.js"
+			],
+			[
+				"storage",
+				"lib/core/storage.js"
+			],
+			[
+				"bitcointip",
+				"lib/modules/bitcointip.js"
+			],
+			[
+				"dashboard",
+				"lib/modules/dashboard.js"
+			],
+			[
+				"usernamehider",
+				"lib/modules/usernameHider.js"
+			],
+			[
+				"wikichec",
+				"Reddit-Enhancement-Suite/utils/wikiCheck.js"
+			],
+			[
+				"res.css",
+				"lib/core/res.css"
+			],
+			[
+				"subredditmn",
+				"lib/modules/subredditManager.js"
+			],
+			[
+				"console",
+				"lib/core/console.js"
+			],
+			[
+				"commentt",
+				"lib/modules/commentTools.js"
+			],
+			[
+				"single",
+				"lib/modules/singleClick.js"
+			],
+			[
+				"dashboar",
+				"lib/modules/dashboard.js"
+			],
+			[
+				"account",
+				"lib/modules/accountSwitcher.js"
+			],
+			[
+				"showimag",
+				"lib/modules/showImages.js"
+			],
+			[
+				"keybordn",
+				"lib/modules/keyboardNav.js"
+			],
+			[
+				"commentprev",
+				"lib/modules/commentPreview.js"
+			],
+			[
+				"better",
+				"lib/modules/betteReddit.js"
+			],
+			[
+				"nightmode.css",
+				"lib/modules/nightmode.css"
+			],
+			[
+				"stylew",
+				"lib/modules/styleTweaks.js"
+			],
+			[
+				"guidersjs",
+				"lib/vendor/guiders-1.2.8.js"
+			],
+			[
+				"submitissue",
+				"lib/modules/submitIssue.js"
+			],
+			[
+				"commenttoo",
+				"lib/modules/commentTools.js"
+			],
+			[
+				"hoverjs",
+				"lib/modules/hover.js"
+			],
+			[
+				"quickmess",
+				"lib/modules/quickMessage.js"
+			],
+			[
+				"migratejs",
+				"lib/core/migrate.js"
+			],
+			[
+				"styletwea",
+				"lib/modules/styleTweaks.js"
+			],
+			[
+				"stylet",
+				"lib/modules/styleTweaks.js"
+			],
+			[
+				"notificat",
+				"lib/modules/notifications.js"
+			],
+			[
+				"nightmodecss",
+				"lib/modules/nightmode.css"
+			],
+			[
+				"commentto",
+				"lib/modules/commentTools.js"
+			],
+			[
+				"res",
+				"lib/core/res.css"
+			],
+			[
+				"rescss",
+				"lib/core/res.css"
+			],
+			[
+				"filteredd",
+				"lib/modules/filteReddit.js"
+			],
+			[
+				"hover",
+				"lib/modules/hover.js"
+			],
+			[
+				"initjs",
+				"lib/core/init.js"
+			],
+			[
+				"templateht",
+				"lib/core/templates.html"
+			],
+			[
+				"submitiss",
+				"lib/modules/submitIssue.js"
+			],
+			[
+				"sourcesnud",
+				"lib/modules/sourceSnudown.js"
+			],
+			[
+				"noparti",
+				"lib/modules/noParticipation.js"
+			],
+			[
+				"fltere",
+				"lib/modules/filteReddit.js"
+			],
+			[
+				"xpipack",
 				"Reddit-Enhancement-Suite/XPI/package.json"
+			],
+			[
+				"xpijs",
+				"Reddit-Enhancement-Suite/XPI/data/init.js"
+			],
+			[
+				"styleshet",
+				"lib/modules/stylesheet.js"
+			],
+			[
+				"contexts",
+				"Reddit-Enhancement-Suite/lib/modules/contexts.js"
+			],
+			[
+				"showimages",
+				"lib/modules/showImages.js"
+			],
+			[
+				"showimage",
+				"Reddit-Enhancement-Suite/lib/modules/showImages.js"
+			],
+			[
+				"plist",
+				"Reddit-Enhancement-Suite/RES.safariextension/Info.plist"
+			],
+			[
+				"xpimainjs",
+				"Reddit-Enhancement-Suite/XPI/lib/main.js"
+			],
+			[
+				"operablinkma",
+				"Reddit-Enhancement-Suite/OperaBlink/manifest.json"
+			],
+			[
+				"background-sa",
+				"Reddit-Enhancement-Suite/RES.safariextension/background-safari.html"
+			],
+			[
+				"browsersafar",
+				"Reddit-Enhancement-Suite/RES.safariextension/browsersupport-safari.js"
+			],
+			[
+				"browsersafari",
+				"Reddit-Enhancement-Suite/RES.safariextension/browsersupport-safari.js"
+			],
+			[
+				"browsersupport-chrome",
+				"Reddit-Enhancement-Suite/Chrome/browsersupport-chrome.js"
+			],
+			[
+				"storagejs",
+				"lib/core/storage.js"
 			],
 			[
 				"chromemanifest",
 				"Reddit-Enhancement-Suite/Chrome/manifest.json"
 			],
 			[
-				"operablinkjson",
-				"Reddit-Enhancement-Suite/OperaBlink/manifest.json"
+				"infoplist",
+				"Reddit-Enhancement-Suite/RES.safariextension/Info.plist"
 			],
 			[
-				"templates",
-				"Reddit-Enhancement-Suite/lib/templates.html"
+				"betteredd",
+				"lib/modules/betteReddit.js"
 			],
 			[
-				"xpimain.js",
+				"tilsjs",
+				"lib/core/utils.js"
+			],
+			[
+				"nightmodejs",
+				"lib/modules/nightMode.js"
+			],
+			[
+				"filtered",
+				"lib/modules/filteReddit.js"
+			],
+			[
+				"makeli",
+				"Reddit-Enhancement-Suite/makelinks.sh"
+			],
+			[
+				"usernamehi",
+				"lib/modules/usernameHider.js"
+			],
+			[
+				"mainjs",
 				"Reddit-Enhancement-Suite/XPI/lib/main.js"
 			],
 			[
-				"background-saf",
-				"Reddit-Enhancement-Suite/RES.safariextension/background-safari.html"
+				"neverendin",
+				"lib/modules/neverEndingReddit.js"
 			],
 			[
-				"storage",
-				"Reddit-Enhancement-Suite/lib/storage.js"
+				"migrate.js",
+				"lib/core/migrate.js"
 			],
 			[
-				"chromejson",
+				"settingsnav",
+				"lib/modules/settingsNavigation.js"
+			],
+			[
+				"makelinks",
+				"Reddit-Enhancement-Suite/makelinks.sh"
+			],
+			[
+				"submit",
+				"lib/modules/submitIssue.js"
+			],
+			[
+				"commentoo",
+				"lib/modules/commentTools.js"
+			],
+			[
+				"fire",
+				"Reddit-Enhancement-Suite/XPI/data/browsersupport-firefox.js"
+			],
+			[
+				"manifestjson",
 				"Reddit-Enhancement-Suite/Chrome/manifest.json"
 			],
 			[
-				"utils",
-				"Reddit-Enhancement-Suite/lib/utils.js"
+				"tempatejs",
+				"lib/core/template.js"
 			],
 			[
-				"libinit",
-				"Reddit-Enhancement-Suite/lib/init.js"
+				"templa",
+				"lib/core/template.js"
 			],
 			[
-				"init.js",
-				"Reddit-Enhancement-Suite/Chrome/init.js"
+				"hosts",
+				"lib/modules/hosts/hosts.json"
 			],
 			[
-				"notifications",
-				"Reddit-Enhancement-Suite/lib/modules/notifications.js"
+				"libmodhost",
+				"Reddit-Enhancement-Suite/lib/modules/hosts/mediacrush.js"
 			],
 			[
-				"trouble",
-				"Reddit-Enhancement-Suite/lib/modules/troubleshooter.js"
+				"u",
+				"Reddit-Enhancement-Suite/lib/modules/upload.js"
 			],
 			[
-				"libred",
-				"Reddit-Enhancement-Suite/lib/reddit_enhancement_suite.user.js"
+				"",
+				"Reddit-Enhancement-Suite/BUILD.md"
 			],
 			[
-				"nightmode",
-				"Reddit-Enhancement-Suite/lib/nightmode.css"
+				"makelink",
+				"Reddit-Enhancement-Suite/makelinks.sh"
 			],
 			[
-				"res.css",
-				"Reddit-Enhancement-Suite/Chrome/res.css"
+				"init",
+				"Reddit-Enhancement-Suite/Opera/init.js"
 			],
 			[
-				"libres.css",
-				"Reddit-Enhancement-Suite/lib/res.css"
+				"operablinkmanifest",
+				"Reddit-Enhancement-Suite/OperaBlink/manifest.json"
 			],
 			[
-				"libres",
-				"Reddit-Enhancement-Suite/lib/res.css"
+				"manifest",
+				"Reddit-Enhancement-Suite/Chrome/manifest.json"
 			],
 			[
-				"css",
-				"Reddit-Enhancement-Suite/Chrome/res.css"
+				"context",
+				"Reddit-Enhancement-Suite/lib/modules/contexts.js"
 			],
 			[
-				"libredd",
-				"Reddit-Enhancement-Suite/lib/reddit_enhancement_suite.user.js"
+				"manifestjs",
+				"Reddit-Enhancement-Suite/Chrome/manifest.json"
 			],
 			[
-				"info.plist",
-				"Reddit-Enhancement-Suite/RES.safariextension/Info.plist"
+				"templatejs",
+				"Reddit-Enhancement-Suite/lib/core/template.js"
 			],
 			[
-				"dragsort",
-				"Reddit-Enhancement-Suite/RES.safariextension/jquery.dragsort-0.6.js"
+				"template",
+				"Reddit-Enhancement-Suite/lib/core/templates.html"
 			],
 			[
-				"safariext",
-				"Reddit-Enhancement-Suite/RES.safariextension/Info.plist"
-			],
-			[
-				"back",
-				"Reddit-Enhancement-Suite/Chrome/background.js"
-			],
-			[
-				"backgroundsa",
-				"Reddit-Enhancement-Suite/RES.safariextension/background-safari.html"
-			],
-			[
-				"rescss",
-				"Reddit-Enhancement-Suite/lib/res.css"
-			],
-			[
-				"buildres",
-				"snippets/build_RES.sh"
-			],
-			[
-				"jqueryui",
-				"media/javascript/jquery-ui-core.js"
-			],
-			[
-				"dragsortmin",
-				"lib/jquery.dragsort-0.4.3.min.js"
-			],
-			[
-				"chromedragsort",
-				"Chrome/jquery.dragsort-0.4.3.min.js"
-			],
-			[
-				"json",
-				"Chrome/manifest.json"
-			],
-			[
-				"dragsortjs",
-				"Chrome/jquery.dragsort.js"
-			],
-			[
-				"opera",
-				"Opera/config.xml"
-			],
-			[
-				"jqueryjs",
-				"Opera/modules/jquery-1.9.1.min.js"
+				"filtere",
+				"Reddit-Enhancement-Suite/lib/modules/filteReddit.js"
 			]
 		],
 		"width": 0.0
@@ -965,6 +1929,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 256.0,
+	"side_bar_width": 109.0,
 	"status_bar_visible": true
 }
