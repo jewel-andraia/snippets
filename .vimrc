@@ -65,11 +65,3 @@ nmap k gk
 
 " We're ignoring the fact that this may not always be GUI.
 set mouse=a
-
-dd;;;;-;;;;;;-;;;;;!}~/scmindent.scm
-ddp ]q O;;;;;-;;;;;v}=/;;;;;-;;;;;
-map [l :set lisp autoindent
-map ]l :set nolisp smartindent
-map W b
-map ~
-map ~
