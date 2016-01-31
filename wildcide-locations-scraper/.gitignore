@@ -1,0 +1,16 @@
+#python
+.Python
+*.pyc
+
+#virtualenv
+
+bin
+include
+lib
+
+#vim
+*.sw*
+
+#Output
+wildcide.json
+wildcide.csv
