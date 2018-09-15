@@ -44,14 +44,14 @@ for repo_name in ${SOURCE_CODE_ROOT}/*; do
     if [ ${DRY_RUN} = "no" ]; then
         if [ ${do_pull} = "yes" ]; then
             git "--git-dir=${git_dir}" pull --ff-only $ORIGIN_REPO $MASTER_BRANCH > /dev/null
-            echo "done    git pull ${ORIGIN_REPO} ${MASTER_BRANCH}    for   ${repo_dir}"
+            echo "done    git pull ${ORIGIN_REPO} ${MASTER_BRANCH}    for   ${repo_name}"
             if [ ${do_submodules} = "yes" ]; then
                 git "--git-dir=${git_dir}" submodule update > /dev/null
-                echo "done    git submodule update    for   ${repo_dir}"
+                echo "done    git submodule update    for   ${repo_name}"
             fi
         else
             git "--git-dir=${git_dir}" fetch $ORIGIN_REPO $MASTER_BRANCH > /dev/null
-            echo "done git fetch ${ORIGIN_REPO} ${MASTER_BRANCH} for ${repo_dir}"
+            echo "done git fetch ${ORIGIN_REPO} ${MASTER_BRANCH} for ${repo_name}"
             if [ ${do_submodules} = "yes" ]; then
                 >&2 echo "still need    git submodule update    for   ${repo_name}"
             fi
