@@ -17,7 +17,7 @@ fi
 # Functions
 
 parse_git_branch() {
-	git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
+	git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ 💻(\1)/'
 }
 
 findgrep () {
@@ -38,7 +38,7 @@ if [ -f ~/apps/hub/etc/hub.bash_completion.sh ]; then
     source ~/apps/hub/etc/hub.bash_completion.sh ]
 fi
 
-export PS1="🌜\t⌚\\[$(tput bold)\]\[\033[38;5;3m\]\u\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\[\033[32m\]\$(parse_git_branch)\[\033[00m\] 🌛 "
+export PS1="⌚\t 📁\\[$(tput bold)\]\[\033[38;5;3m\]\[\033[01;34m\]\w\[\033[00m\]\[\033[32m\]\$(parse_git_branch)\[\033[00m\] 🌛 "
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
 
